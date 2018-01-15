@@ -27,17 +27,13 @@ Check my previous projects [here](https://chunlianglyu.com/projects/),
 
 ## Education
 
-### [San Jose State University][sjsu], M.S. in Library and Information Science {2013 - 2016}
+### [San Jose State University] (https://www.sjsu.edu), M.S. in Library and Information Science {2013 - 2016}
 
-### [Brigham Young University][byu], B.S. in Geography with an emphasis in Geographic Information Systems, GPA 3.76 {2001 - 2007}
-
-[sjsu]: https://www.sjsu.edu/ (alumniOf)
-[byu]: http://www.byu.edu/ (alumniOf)
+### [Brigham Young University] (https://www.byu.edu), B.S. in Geography with an emphasis in Geographic Information Systems, GPA 3.76 {2001 - 2007}
 
 ## Experience
 
 ### [Harold B. Lee Library] (https://lib.byu.edu), [Data Services Software Engineer](https://lib.byu.edu/directory/greg-reeve/) {2014 - 2018}
-*(Blurb about the library and library IT? What we do?)*
 
 Develops web-based applications using Python and Django for the Harold B. Lee Library (HBLL). Designs and develops front end web-application interfaces using HTML, CSS, and Javascript. Interacts with mysql databases using SQL and Python. Provides technical and programming support for Digital Humanities projects involving the library and its staff. Reviews other team members code before deploying. Presents training materials on relevant programming topics to the development team. Attends programming and library-related conferences to make connections with other academic institutions and their staff. 
 
@@ -104,3 +100,5 @@ Tracked virus infected on-campus computers in order to contact their owner for t
 - Tools: Git, Gulp, Linux, macOS, Docker 
 
 [Harold B. Lee Library]: https://lib.byu.edu/ (worksFor)
+[San Jose State University]: https://www.sjsu.edu/ (alumniOf)
+[Brigham Young University]: https://www.byu.edu/ (alumniOf)
