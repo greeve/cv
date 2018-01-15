@@ -41,7 +41,6 @@ Check my previous projects [here](https://chunlianglyu.com/projects/),
 
 Develops web-based applications using Python and Django for the Harold B. Lee Library (HBLL). Designs and develops front end web-application interfaces using HTML, CSS, and Javascript. Interacts with mysql databases using SQL and Python. Provides technical and programming support for Digital Humanities projects involving the library and its staff. Reviews other team members code before deploying. Presents training materials on relevant programming topics to the development team. Attends programming and library-related conferences to make connections with other academic institutions and their staff. 
 
-
 ### [Critigen][critigen], Geodata Manager {2011 - 2014}
 
 Worked on-site with the U.S. Forest Service to implement and administer ArcGIS Server at the USFS Enterprise Data Center. Responsible for creating and following the process of publishing, cataloging, and monitoring map services. Cataloged authoritative agency map services on ArcGIS Online and Data.gov. Authored and optimized map documents to publish as map services. Wrote documentation to guide others in publishing and using GIS services. Ensured the process follows enterprise standards and meets the needs of the Forest Service. Assisted, educated, and led both groups and individuals on a local and national level. Created demos and presentations to inform others how GIS web services are being used in the agency. Aided users in and out of the agency so they can utilize map services in their own web mapping applications. In charge of customer service and troubleshooting issues. Supported web application developers who request map services. Provided assistance to the ArcGIS Server Administrator in configuring, optimizing, and managing the system. Administered the U.S. Forest Service ArcGIS Online Organization account. Contributed to many internal and external U.S. Forest Service projects including the [U.S. Forest Service Interactive Visitor Map][ivm], the [U.S. Forest Service ArcGIS Online Organization][usfs-agol], and the [U.S. Forest Service Land and Water Conservation Fund Map Viewer][lwcf]. Supervised other on-site Critigen staff including approving timecards and performing yearly performance reviews.
@@ -82,13 +81,16 @@ Tracked virus infected on-campus computers in order to contact their owner for t
 ## Publications 
 
 - Zaugg, H., McKeen, Q., & __Reeve, G.__ (October 2016). *Using a social network analysis to inform library communication patterns within the Harold B. Lee Library*. Proceedings of the Library Assessment Conference, Arlington, VA. Retrieved from <http://libraryassessment.org/bm~doc/80-zaugg-2016.pdf>
-- SJSU MLIS ePortfolio
 
 ## Presentations
 
 - Smart, E. & __Reeve, G.__ (Feb 2016). [*The First Utah Symposium on the Digital Humanities*][dhu1], "Digital Humanities and Digital Libraries". 
 
 [dhu1]: https://web.archive.org/web/20160826211035/http://dhu1.byu.edu:80/
+
+## Unpublished Works
+
+- SJSU MLIS ePortfolio
 
 ## Service
 
@@ -97,8 +99,8 @@ Tracked virus infected on-campus computers in order to contact their owner for t
 
 ## Skills
 
-- Language: Python, SQL, Javascript, HTML, XML, XSLT
-- Database: Sqlite, MySQL
-- Tool: Git, Gulp, Linux, Docker 
+- Languages: Python, SQL, Javascript, HTML, XML, XSLT
+- Databases: Sqlite, MySQL
+- Tools: Git, Gulp, Linux, macOS, Docker 
 
 [Harold B. Lee Library]: https://lib.byu.edu/ (worksFor)
