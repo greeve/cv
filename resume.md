@@ -9,7 +9,14 @@
 - <http://greeve.github.io>
 - <https://github.com/greeve>
 
+## Social Media
+
+- <https://twitter.com/greeve>
+- <https://linkedin.com/in/greg-reeve>
+
 # Abstract
+
+I love technology and I love libraries. I am interested in the intersection of technology and libraries. I strive to use my techincal expertise and talents to contribute to the field of library and information science.
 
 # Education
 
@@ -73,7 +80,7 @@ Tracked virus infected on-campus computers in order to contact their owner for t
 
 ## Unpublished Projects
 
-- SJSU MLIS ePortfolio
+- [SJSU MLIS ePortfolio](https://greeve.github.io/eportfolio/)
 
 ## Service
 
