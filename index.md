@@ -21,10 +21,12 @@ I love technology and I love libraries. I am interested in the intersection of t
 # Education
 
 ## M.S. in Library and Information Science
+
 - [San Jose State University][sjsu]
 - 2013–2016
 
 ## B.S. in Geography with an emphasis in Geographic Information Systems
+
 - [Brigham Young University][byu]
 - GPA 3.76 
 - 2001–2007
@@ -32,41 +34,52 @@ I love technology and I love libraries. I am interested in the intersection of t
 # Experience
 
 ## [Data Services Software Engineer][personnel] 
+
 - [Harold B. Lee Library][hbll]
 - 2014–2018
 
 Develops web-based applications using Python and Django for the Harold B. Lee Library (HBLL). Designs and develops front end web-application interfaces using HTML, CSS, and Javascript. Interacts with mysql databases using SQL and Python. Provides technical and programming support for Digital Humanities projects involving the library and its staff. Reviews other team members code before deploying. Presents training materials on relevant programming topics to the development team. Attends programming and library-related conferences to make connections with other academic institutions and their staff. 
 
+- ATOM and working with data stewards and helping cleanup/format/organize data
+- working with MARC and MARCXML (CRAM, ATOM)
+- working with others to gather requirements and understand the problem and find solutions?
+
 ## Geodata Manager
+
 - [Critigen][critigen]
 - 2011–2014
 
 Worked on-site with the U.S. Forest Service to implement and administer ArcGIS Server at the USFS Enterprise Data Center. Responsible for creating and following the process of publishing, cataloging, and monitoring map services. Cataloged authoritative agency map services on ArcGIS Online and Data.gov. Authored and optimized map documents to publish as map services. Wrote documentation to guide others in publishing and using GIS services. Ensured the process follows enterprise standards and meets the needs of the Forest Service. Assisted, educated, and led both groups and individuals on a local and national level. Created demos and presentations to inform others how GIS web services are being used in the agency. Aided users in and out of the agency so they can utilize map services in their own web mapping applications. In charge of customer service and troubleshooting issues. Supported web application developers who request map services. Provided assistance to the ArcGIS Server Administrator in configuring, optimizing, and managing the system. Administered the U.S. Forest Service ArcGIS Online Organization account. Contributed to many internal and external U.S. Forest Service projects including the [U.S. Forest Service Interactive Visitor Map][ivm], the [U.S. Forest Service ArcGIS Online Organization][usfs-agol], and the [U.S. Forest Service Land and Water Conservation Fund Map Viewer][lwcf]. Supervised other on-site Critigen staff including approving timecards and performing yearly performance reviews.
 
 ## Geodata Manager
+
 - [Tetra Tech][tt]
 - 2010–2011
 
 Worked on-site with the U.S. Forest Service to implement and administer ArcGIS Server at the USFS Enterprise Data Center. Responsible for creating and following the process of publishing, cataloging, and monitoring map services. Cataloged agency map services using internal cataloging tools. Authored and optimized map documents to publish as map services. Wrote documentation to guide others in publishing and using GIS services. Ensured the process follows enterprise standards and meets the needs of the Forest Service. Assisted, educated, and led both groups and individuals on a local and national level. Created demos and presentations to inform others how GIS web services are being used in the agency. Aided users in and out of the agency so they can utilize map services in their own web mapping applications. In charge of customer service and troubleshooting issues. Supported web application developers who request map services. Provided assistance to the ArcGIS Server Administrator in configuring, optimizing, and managing the system. Administered the U.S. Forest Service ArcGIS Online Organization account. Contributed to many internal and external U.S. Forest Service web mapping applications.
 
 ## iOS Developer
+
 - 2009–2013
 
 Was enrolled as an iOS developer in Apple’s iOS Developer Program. Learned to develop for iPhone, iPod Touch, and iPad using Apple’s developer frameworks and tools. Designed, developed, tested and sold the following apps: Aconter for iPad, Word Play for iPad, Letter Play for iPad, Number Play for iPad, and Basic Scriptures for iPhone and iPad. Worked as a freelance developer on the Fact Mountain series of apps for Foothills Education, LLC (<http://www.factmountain.net/iphone-apps>). Information about these apps at <http://visualhierarchy.tumblr.com>
 
 ## Product Engineer
+
 - [ESRI][esri]
 - 2007–2010
 
 Worked as a gray box tester of ArcGIS server for .NET and the .NET Web ADF. Validated and verified that the software meets the technical requirements that guided it’s design and development. Worked with one other product engineer overseeing the manual testing of the product. Worked closely with a team of 12 developers and tested their software fixes and new features before being checked into the code base. Ran regression tests after developers checked in new code. Wrote test plans for testing features and functionality. Balanced time between testing various operating system environments and features supported by the software. Acted as a user of the software to improve quality of the product. Tested and documented integration with Microsoft .NET technologies. Represented company at ESRI user conferences answering customer questions about ArcGIS Server.
 
 ## GIS Technician
+
 - [City of Provo][provo-city]
 - 2007–2007
 
 Worked on a team to create a unified addressing geodatabase for the City of Provo. This included gathering and verifying address information and editing and entering data into the geodatabase. Heavily assisted in establishing and modifying the project work flow.
 
 ## Student employee
+
 - [BYU Office of Information Technology][oit]
 - 2005–2007
 
@@ -78,13 +91,13 @@ Tracked virus infected on-campus computers in order to contact their owner for t
 
 # Presentations
 
-- Smart, E. & __Reeve, G.__ (Feb 2016). [*The First Utah Symposium on the Digital Humanities*][dhu1], "Digital Humanities and Digital Libraries". 
+- Smart, E. & __Reeve, G.__ (Feb 2016). [*The First Utah Symposium on the Digital Humanities*][dhu1], "Digital Humanities and Digital Libraries".
 
 # Unpublished Research
 
-- [SJSU MLIS ePortfolio](https://greeve.github.io/eportfolio/)
-- ATOM poster for ULA
-- Project with Brian
+- __Reeve, G.__ (2016). *Masters of Library and Information Science Portfolio*. Retrieved from <https://greeve.github.io/eportfolio/>
+- Rennick, B., __Reeve, G.__, & Hansen, C. (2018). *ATOM: A table of metadata*. Poster in preparation.
+- Rennick, B., Edlund, T., & __Reeve, G.__. (2019). Library exhibit in preparation.
 
 # Service
 
@@ -93,7 +106,7 @@ Tracked virus infected on-campus computers in order to contact their owner for t
 
 # Skills
 
-- Languages: Python, SQL, Javascript, HTML, XML, XSLT
+- Languages: Python, Javascript, HTML, CSS, XML, XSLT, SQL, SPARQL, RDF, MARC, MARCXML, EAD
 - Databases: Sqlite, MySQL
 - Tools: Git, Gulp, Linux, macOS, Docker 
 
