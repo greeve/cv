@@ -80,7 +80,7 @@ Tracked virus infected on-campus computers in order to contact their owner for t
 
 - Smart, E. & __Reeve, G.__ (Feb 2016). [*The First Utah Symposium on the Digital Humanities*][dhu1], "Digital Humanities and Digital Libraries". 
 
-# Unpublished Projects
+# Unpublished Research
 
 - [SJSU MLIS ePortfolio](https://greeve.github.io/eportfolio/)
 - ATOM poster for ULA
