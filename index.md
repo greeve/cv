@@ -72,22 +72,26 @@ Worked on a team to create a unified addressing geodatabase for the City of Prov
 
 Tracked virus infected on-campus computers in order to contact their owner for the cleaning of the computer. Managed virus alerts using custom built virus tracking software. Created reports for security violations. Acted as BYU postmaster in dealing with on-campus spam complaints. Managed passwords and network access using various custom-built applications. Setup Microsoft Exchange email and VPN accounts on the campus network. Worked with campus faculty and staff over the phone and via email to troubleshoot and resolve account access and maintenance issues.
 
-# Publications, Presentations, and Research
+# Publications
 
 - Zaugg, H., McKeen, Q., & __Reeve, G.__ (October 2016). *Using a social network analysis to inform library communication patterns within the Harold B. Lee Library*. Proceedings of the Library Assessment Conference, Arlington, VA. Retrieved from <http://libraryassessment.org/bm~doc/80-zaugg-2016.pdf>
-- Smart, E. & __Reeve, G.__ (Feb 2016). [*The First Utah Symposium on the Digital Humanities*][dhu1], "Digital Humanities and Digital Libraries". 
-- Project with Brian
 
-## Unpublished Projects
+# Presentations
+
+- Smart, E. & __Reeve, G.__ (Feb 2016). [*The First Utah Symposium on the Digital Humanities*][dhu1], "Digital Humanities and Digital Libraries". 
+
+# Unpublished Projects
 
 - [SJSU MLIS ePortfolio](https://greeve.github.io/eportfolio/)
+- ATOM poster for ULA
+- Project with Brian
 
-## Service
+# Service
 
 - Member of the [HBLL][hbll] Metadata Management Working Group, 2017 - Present
 - Member of the [HBLL][hbll] Library Membership Task Force, 2017 - Present
 
-## Skills
+# Skills
 
 - Languages: Python, SQL, Javascript, HTML, XML, XSLT
 - Databases: Sqlite, MySQL
