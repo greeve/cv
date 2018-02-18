@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <title>{{ full_name }}'s Curriculum Vitae (CV)</title>
+        <meta name="description" content="{{ full_name }}'s Curriculum Vitae (CV)" />
+        <link rel="stylesheet" href="css/style.css" media="all" />
+    </head>
+
+    <body about="[this:]" id="cv" typeof="foaf:PersonalProfileDocument" class="h-feed h-resume" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns# rdfs: http://www.w3.org/2000/01/rdf-schema# owl: http://www.w3.org/2002/07/owl# xsd: http://www.w3.org/2001/XMLSchema# dcterms: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ v: http://www.w3.org/2006/vcard/ns# pimspace: http://www.w3.org/ns/pim/space# cc: http://creativecommons.org/ns# skos: http://www.w3.org/2004/02/skos/core# prov: http://www.w3.org/ns/prov# schema: http://schema.org/ sioc: http://rdfs.org/sioc/ns# rsa: http://www.w3.org/ns/auth/rsa# cert: http://www.w3.org/ns/auth/cert# cal: http://www.w3.org/2002/12/cal/ical# wgs: http://www.w3.org/2003/01/geo/wgs84_pos# org: http://www.w3.org/ns/org# biblio: http://purl.org/net/biblio# bibo: http://purl.org/ontology/bibo/ book: http://purl.org/NET/book/vocab# ov: http://open.vocab.org/terms/ doap: http://usefulinc.com/ns/doap# dbr: http://dbpedia.org/resource/ dbp: http://dbpedia.org/property/ sio: http://semanticscience.org/resource/ opmw: http://www.opmw.org/ontology/ deo: http://purl.org/spar/deo/ doco: http://purl.org/spar/doco/ cito: http://purl.org/spar/cito/ fabio: http://purl.org/spar/fabio/ oa: http://www.w3.org/ns/oa# as: http://www.w3.org/ns/activitystreams# this: http://www.kjetil.kjernsmo.net/cv">
+        <span rel="foaf:primaryTopic" resource="http://greeve.github.io/foaf.rdf#me"></span>
+        <main>
+            <article>
+                <h1 class="p-name" property="schema:name">{{ full_name }}'s <span lang="la">Curriculum Vitae</span></h1>
+                <dl about="http://greeve.github.io/foaf.rdf#me" id="personalia" typeof="schema:Person">
+                    <dt class="author-uri">Author URI:</dt>
+                    <dd class="author-uri"><a href="http://greeve.github.io/foaf.rdf#me">http://greeve.github.io/foaf.rdf#me</a></dd>
+                    <dt>Email:</dt>
+                    <dd><a property="schema:email" href="mailto:greg_reeve@byu.edu">greg_reeve@byu.edu</a></dd>
+                    <dt>Telephone:</dt>
+                    <dd property="schema:telephone">801.888.7719</dd>
+                    <dt>Homepage:</dt>
+                    <dd><a property="schema:url" href="http://greeve.github.io/">http://greeve.github.io/</a></dd>
+                </dl>
+
+                <dl id="document-identifier">
+                    <dt>Document ID</dt>
+                    <dd><a href="http://greeve.github.io/cv">http://greeve.github.io/cv</a></dd>
+                </dl>
+
+                <nav>
+                    <h2 id="toc">Table of contents</h2>
+                    <ul>
+                        <li><a href="#abstract">Abstract</a></li>
+                        <li><a href="#education">Education</a></li>
+                        <li><a href="#experience">Experience</a></li>
+                        <li><a href="#publications">Publications</a></li>
+                        <li><a href="#presentations">Presentations</a></li>
+                        <li><a href="#unpublished">Unpublished Research</a></li>
+                        <li><a href="#service">Service</a></li>
+                        <li><a href="#skills">Skills</a></li>
+                    </ul>
+                </nav>
+
+                <div id="content" class="e-content">
+                    <section id="abstract" about="[this:]">
+                        <h2>Abstract</h2>
+                        <div property="schema:abstract" class="p-summary">
+                            {{ abstract }}
+                        </div>
+                    </section>
+
+                    <section id="education" about="[this:]" rel="schema:hasPart" resource="[this:#education]">
+                        <h2 about="[this:#education]" property="schema:name">Education</h2>
+                        <div about="[this:#education]" property="schema:description">
+                            {{ education }}
+                        </div>
+                    </section>
+
+                    <section id="experience" about="[this:]" rel="schema:hasPart" resource="[this:#experience]">
+                        <h2 about="[this:#experience]" property="schema:name">Experience</h2>
+                        <div about="[this:#experience]" property="schema:description">
+                            {{ experience }}
+                        </div>
+                    </section>
+
+                    <section id="publications" about="[this:]" rel="schema:hasPart" resource="[this:#publications]">
+                        <h2 about="[this:#publications]" property="schema:name">Publications</h2>
+                        {{ publications }}
+                    </section>
+
+                    <section id="presentations" about="[this:]" rel="schema:hasPart" resource="[this:#presentations]">
+                        <h2 about="[this:#presentations]" property="schema:name">Presentations</h2>
+                        {{ presentations }}
+                    </section>
+
+                    <section id="unpublished" about="[this:]" rel="schema:hasPart" resource="[this:#unpublished]">
+                        <h2 about="[this:#unpublished]" property="schema:name">Unpublished Research</h2>
+                        {{ unpublished }}
+                    </section>
+
+                    <section id="service" about="[this:]" rel="schema:hasPart" resource="[this:#service]">
+                        <h2 about="[this:#service]" property="schema:name">Service</h2>
+                        {{ unpublished }}
+                    </section>
+
+                    <section id="skills" about="[this:]" rel="schema:hasPart" resource="[this:#skills]">
+                        <h2 about="[this:#skills]" property="schema:name">Skills</h2>
+                        <div about="[this:#skills]" property="schema:description">
+                            {{ skills }}
+                        </div>
+                    </section>
+
+                </div>
+            </article>
+        </main>
+    </body>
+</html>
+
+
