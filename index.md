@@ -1,4 +1,4 @@
-# Greg Reeve's Curriculum Vitae
+# Greg Reeve
 
 ## Email
 
