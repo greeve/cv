@@ -88,6 +88,7 @@ Tracked virus infected on-campus computers in order to contact their owner for t
 # Publications
 
 - Zaugg, H., McKeen, Q., & __Reeve, G.__ (October 2016). *Using a social network analysis to inform library communication patterns within the Harold B. Lee Library*. Proceedings of the Library Assessment Conference, Arlington, VA. Retrieved from <http://libraryassessment.org/bm~doc/80-zaugg-2016.pdf>
+- __Reeve, G.__ (2016). *Masters of Library and Information Science Portfolio*. Retrieved from <https://greeve.github.io/eportfolio/>
 
 # Presentations
 
@@ -95,7 +96,6 @@ Tracked virus infected on-campus computers in order to contact their owner for t
 
 # Unpublished Research
 
-- __Reeve, G.__ (2016). *Masters of Library and Information Science Portfolio*. Retrieved from <https://greeve.github.io/eportfolio/>
 - Rennick, B., __Reeve, G.__, & Hansen, C. (2018). *ATOM: A table of metadata*. Poster in preparation.
 - Rennick, B., Edlund, T., & __Reeve, G.__. (2019). Library exhibit in preparation.
 
