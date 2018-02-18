@@ -7,10 +7,8 @@
 ## Websites
 
 - <http://greeve.github.io>
+- <https://greeve.github.io/foaf.rdf>
 - <https://github.com/greeve>
-
-## Social Media
-
 - <https://twitter.com/greeve>
 - <https://linkedin.com/in/greg-reeve>
 
