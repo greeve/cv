@@ -26,8 +26,8 @@ I love technology and I love libraries. I am interested in the intersection of t
 ## B.S. in Geography with an emphasis in Geographic Information Systems
 
 - [Brigham Young University][byu]
-- GPA 3.76 
 - 2001–2007
+- GPA 3.76 
 
 # Experience
 
