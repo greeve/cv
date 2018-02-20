@@ -1,5 +1,15 @@
 # Greg Reeve
 
+## Address
+
+254 N 400 E  
+Provo, UT 84606
+
+## Phone
+
+- **Cell**: 801.888.7719
+- **Work**: 801.422.6696
+
 ## Email
 
 - <greg_reeve@byu.edu>
@@ -11,6 +21,7 @@
 - <https://github.com/greeve>
 - <https://twitter.com/greeve>
 - <https://linkedin.com/in/greg-reeve>
+- <https://vimeo.com/user27908261>
 
 # Abstract
 
@@ -31,13 +42,18 @@ I love technology and I love libraries. I am interested in the intersection of t
 
 # Experience
 
-## [Data Services Software Engineer][personnel] 
+## [Data Services Software Developer][personnel] 
 
 - [Harold B. Lee Library][hbll]
 - 2014–2018
 
 Develops web-based applications using Python and Django for the Harold B. Lee Library (HBLL). Designs and develops front end web-application interfaces using HTML, CSS, and Javascript. Interacts with mysql databases using SQL and Python. Provides technical and programming support for Digital Humanities projects involving the library and its staff. Reviews other team members code before deploying. Presents training materials on relevant programming topics to the development team. Attends programming and library-related conferences to make connections with other academic institutions and their staff. 
 
+*Ideas to add*
+
+- conferences, visiting scholar, mmwg > linked data
+- participation in mmwg and learning metadata
+- list projects and assignments
 - ATOM and working with data stewards and helping cleanup/format/organize data
 - working with MARC and MARCXML (CRAM, ATOM)
 - working with others to gather requirements and understand the problem and find solutions?
