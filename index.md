@@ -24,10 +24,6 @@ Provo, UT 84606
 - <https://linkedin.com/in/greg-reeve>
 - <https://vimeo.com/user27908261>
 
-# Abstract
-
-I love technology and I love libraries. I am interested in the intersection of technology and libraries. I strive to use my techincal expertise and talents to contribute to the field of library and information science.
-
 # Education
 
 ## M.S. in Library and Information Science
