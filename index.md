@@ -44,16 +44,7 @@ Provo, UT 84606
 - [Harold B. Lee Library][hbll]
 - 2014–2018
 
-Develops web-based applications using Python and Django for the Harold B. Lee Library (HBLL). Designs and develops front end web-application interfaces using HTML, CSS, and Javascript. Interacts with mysql databases using SQL and Python. Provides technical and programming support for Digital Humanities projects involving the library and its staff. Reviews other team members code before deploying. Presents training materials on relevant programming topics to the development team. Attends programming and library-related conferences to make connections with other academic institutions and their staff. 
-
-*Ideas to add*
-
-- conferences, visiting scholar, mmwg > linked data
-- participation in mmwg and learning metadata
-- list projects and assignments
-- ATOM and working with data stewards and helping cleanup/format/organize data
-- working with MARC and MARCXML (CRAM, ATOM)
-- working with others to gather requirements and understand the problem and find solutions?
+Develops web-based applications using Python and Django for the Harold B. Lee Library (HBLL). Designs and develops front end web-application interfaces using HTML, CSS, and Javascript. Interacts with mysql databases using SQL and Python. Programmatically creates, manipulates, formats, and edits datasets used in a variety of projects (e.g. CRAM, Course Reserve, and ATOM). Provides technical and programming support for Digital Humanities projects involving the library and its staff. Works with project stakeholders to understand problems and identify project requirements to create needed solutions. Reviews other team members code before deploying. Presents training materials on relevant programming topics to the development team. Attends programming and library-related conferences to make connections with other academic institutions and their staff and learn new technologies. Participates in the Metadata Management Working Group. 
 
 ## Geodata Manager
 
