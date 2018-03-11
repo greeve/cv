@@ -23,16 +23,8 @@ Provo, UT 84606
 
 # Education
 
-## M.S. in Library and Information Science
-
-- [San Jose State University][sjsu]
-- 2016
-
-## B.S. in Geography with an emphasis in Geographic Information Systems
-
-- [Brigham Young University][byu]
-- 2007
-- GPA 3.76 
+- 2016, *M.S. in Library and Information Science*, [San Jose State University][sjsu]
+- 2007, *B.S. in Geography with an emphasis in Geographic Information Systems*, [Brigham Young University][byu], GPA 3.76 
 
 # Publications
 
@@ -53,15 +45,15 @@ Provo, UT 84606
 - Member of the [HBLL][hbll] Metadata Management Working Group, Present
 - Member of the [HBLL][hbll] Library Membership Task Force, 2017
 
-# Experience
+# Professional Experience
 
-- Present, [Data Services Software Developer][personnel], [*Harold B. Lee Library*][hbll]
-- 2014, Geodata Manager, [*Critigen*][critigen]
-- 2011, Geodata Manager, [*Tetra Tech*][tt]
-- 2013, Freelance iOS Developer
-- 2010, Product Engineer, [*ESRI*][esri]
-- 2007, GIS Technician, [*City of Provo*][provo-city]
-- 2007, Student employee, [*BYU Office of Information Technology*][oit]
+- Present, [*Data Services Software Developer*][personnel], [Harold B. Lee Library][hbll]
+- 2014, *Geodata Manager*, [Critigen][critigen]
+- 2011, *Geodata Manager*, [Tetra Tech][tt]
+- 2013, *Freelance iOS Developer*
+- 2010, *Product Engineer*, [ESRI][esri]
+- 2007, *GIS Technician*, [City of Provo][provo-city]
+- 2007, *Student employee*, [BYU Office of Information Technology][oit]
 
 # Skills
 
