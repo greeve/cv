@@ -55,39 +55,13 @@ Provo, UT 84606
 
 # Experience
 
-## [Data Services Software Developer][personnel] 
-
-- [Harold B. Lee Library][hbll]
-- Present
-
-## Geodata Manager
-
-- [Critigen][critigen]
-- 2014
-
-## Geodata Manager
-
-- [Tetra Tech][tt]
-- 2011
-
-## Freelance iOS Developer
-
-- 2013
-
-## Product Engineer
-
-- [ESRI][esri]
-- 2010
-
-## GIS Technician
-
-- [City of Provo][provo-city]
-- 2007
-
-## Student employee
-
-- [BYU Office of Information Technology][oit]
-- 2007
+- Present, [Data Services Software Developer][personnel], [*Harold B. Lee Library*][hbll]
+- 2014, Geodata Manager, [*Critigen*][critigen]
+- 2011, Geodata Manager, [*Tetra Tech*][tt]
+- 2013, Freelance iOS Developer
+- 2010, Product Engineer, [*ESRI*][esri]
+- 2007, GIS Technician, [*City of Provo*][provo-city]
+- 2007, Student employee, [*BYU Office of Information Technology*][oit]
 
 # Skills
 
