@@ -33,6 +33,11 @@ Provo, UT 84606
 
 ## Presentations
 
+- __Reeve, G.__ (Nov 2017). *Web Development University Trainings*, "Django Data Migrations".
+- __Reeve, G.__ (Jul 2017). *Web Development University Trainings*, "Django Control Center".
+- __Reeve, G.__ (Feb 2017). *Web Development University Trainings*, "Django Forms".
+- __Reeve, G.__ (Jan 2017). *Web Development University Trainings*, "D3js".
+- __Reeve, G.__ (Jun 2016). *Web Development University Trainings*, "Django Class Based Views".
 - Smart, E. & __Reeve, G.__ (Feb 2016). [*The First Utah Symposium on the Digital Humanities*][dhu1], "Digital Humanities and Digital Libraries".
 
 ## Current Research
