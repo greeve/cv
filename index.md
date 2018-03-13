@@ -2,8 +2,8 @@
 
 ### Address
 
-254 N 400 E  
-Provo, UT 84606
+2750 HBLL  
+Provo, UT 84602
 
 ### Phone
 
@@ -64,7 +64,7 @@ Provo, UT 84606
 
 - Languages: Python, Javascript, HTML, CSS, XML, XSLT, SQL, SPARQL, RDF, MARC, MARCXML, EAD
 - Databases: Sqlite, MySQL
-- Tools: Git, Gulp, Linux, macOS, Docker 
+- Tools: Git, Linux, macOS, Docker 
 
 [sjsu]: https://www.sjsu.edu
 [byu]: https://byu.edu
