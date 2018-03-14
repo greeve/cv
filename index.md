@@ -62,7 +62,7 @@ Provo, UT 84602
 
 - *Languages*: Python, Javascript, HTML, CSS, XML, XSLT, SQL, SPARQL, RDF, MARC, MARCXML, EAD
 - *Databases*: Sqlite, MySQL
-- *Tools*: Git, Linux, macOS, Docker 
+- *Tools*: Git, Github, Bitbucket, Linux, macOS, Django, Docker
 
 [github-site]: https://greeve.github.io
 [github-account]: https://github.com/greeve
