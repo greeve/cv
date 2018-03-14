@@ -7,7 +7,7 @@ h3 {
     display: none;
 }
 
-h3 p, h3 ul {
+h3 + p, h3 + ul {
     display: block;
     float: left;
 }
