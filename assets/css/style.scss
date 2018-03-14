@@ -18,8 +18,8 @@ ul {
     list-style-type: none;
 }
 
-li {
-    margin: 0 0 1em 0;
+h2 + ul + li {
+    margin: 0 0 110% 0;
 }
 
 h2#education {
