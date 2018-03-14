@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h3 {
+    display: none;
+}
+
+h3 ul {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+}
