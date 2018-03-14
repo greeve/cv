@@ -16,10 +16,8 @@ Provo, UT 84602
 
 ### Links
 
-- <http://greeve.github.io>
-- <https://github.com/greeve>
-- <https://greeve.github.io/foaf.rdf>
-- <https://orcid.org/0000-0002-7908-3755>
+- [greeve.github.io][gihub-site]
+- [github.com/greeve][github-account]
 
 ## Education
 
@@ -62,10 +60,12 @@ Provo, UT 84602
 
 ## Skills
 
-- Languages: Python, Javascript, HTML, CSS, XML, XSLT, SQL, SPARQL, RDF, MARC, MARCXML, EAD
-- Databases: Sqlite, MySQL
-- Tools: Git, Linux, macOS, Docker 
+- *Languages*: Python, Javascript, HTML, CSS, XML, XSLT, SQL, SPARQL, RDF, MARC, MARCXML, EAD
+- *Databases*: Sqlite, MySQL
+- *Tools*: Git, Linux, macOS, Docker 
 
+[github-site]: https://greeve.github.io
+[github-account]: https://github.com/greeve
 [sjsu]: https://www.sjsu.edu
 [byu]: https://byu.edu
 [hbll]: https://lib.byu.edu
