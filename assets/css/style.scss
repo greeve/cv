@@ -4,10 +4,14 @@
 @import "{{ site.theme }}";
 
 h3 {
-    display: none;
+    font-variant: small-caps;
 }
 
 h3 + p, h3 + ul {
     display: block;
     float: left;
+}
+
+h2#education {
+    clear: both;
 }
