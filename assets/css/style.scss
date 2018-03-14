@@ -31,7 +31,7 @@ h2#education {
 @media print {
 /* Setting content width, unsetting floats and margins */
 /* Attention: the classes and IDs vary from theme to theme. Thus, set own classes here */
-#content, #page {
+div.markdown-body {
     width: 100%;
     margin: 0;
     float: none;
