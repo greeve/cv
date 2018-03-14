@@ -16,7 +16,7 @@ Provo, UT 84602
 
 ### Links
 
-- [greeve.github.io][gihub-site]
+- [greeve.github.io][github-site]
 - [github.com/greeve][github-account]
 
 ## Education
