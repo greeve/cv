@@ -47,8 +47,8 @@ Provo, UT 84602
 
 ## Institutional Service
 
-- Member of the [HBLL][hbll] Metadata Management Working Group, Present
-- Member of the [HBLL][hbll] Library Membership Task Force, 2017
+- Present, Member of the [HBLL][hbll] Metadata Management Working Group
+- 2018, Member of the [HBLL][hbll] Library Membership Task Force
 
 ## Professional Experience
 
