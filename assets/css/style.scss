@@ -33,6 +33,10 @@ h2#education {
     }
 
     h3 + ul {
-        padding: 0;
+        padding: 0 !important;
+    }
+
+    h2#education {
+        clear: none;
     }
 }
