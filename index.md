@@ -2,22 +2,21 @@
 
 ### Address
 
-2750 HBLL  
-Provo, UT 84602
+- ![work address](assets/images/iconmonstr-home-6.svg) 2750 HBLL, Provo, UT 84602
 
 ### Phone
 
-- **Cell**: 801.888.7719
-- **Work**: 801.422.6696
+- ![cell phone](assets/images/iconmonstr-smartphone-3.svg) 801.888.7719
+- ![work phone](assets/images/iconmonstr-phone-1.svg) 801.422.6696
 
 ### Email
 
-- <greg_reeve@byu.edu>
+- ![email](assets/images/iconmonstr-email-1.svg) <greg_reeve@byu.edu>
 
 ### Links
 
-- [greeve.github.io][github-site]
-- [github.com/greeve][github-account]
+- ![weblink](assets/images/iconmonstr-globe-3.svg) [greeve.github.io][github-site]
+- ![github](assets/images/iconmonstr-github-1.svg) [github.com/greeve][github-account]
 
 ## Education
 
