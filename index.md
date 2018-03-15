@@ -2,7 +2,7 @@
 
 ### Address
 
-- ![work address](assets/images/iconmonstr-home-6.svg) 2750 HBLL, Provo, UT 84602
+- 2750 HBLL, Provo, UT 84602
 
 ### Phone
 
