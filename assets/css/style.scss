@@ -44,3 +44,12 @@ h2#education {
         clear: none;
     }
 }
+
+@media print {
+    @page {
+        size: letter portrait;
+        margin-left: 2.54cm;
+        margin-right: 2.54cm;
+    }
+}
+
