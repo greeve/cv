@@ -2,7 +2,8 @@
 
 ### Address
 
-- 2750 HBLL, Provo, UT 84602
+2750 HBLL  
+Provo, UT 84602
 
 ### Phone
 
