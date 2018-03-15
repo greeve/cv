@@ -28,6 +28,13 @@ h2#education {
     clear: both;
 }
 
+@media (max-width: 690px) {
+    h3 + p, h3 + ul {
+        display: inline;
+        padding-right: 0;
+    }
+}
+
 @media print {
 /** Setting margins */
 @page { 
