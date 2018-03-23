@@ -51,6 +51,7 @@ Provo, UT 84602
 ## Professional Experience
 
 - Present, [*Data Services Software Developer*][personnel], [Harold B. Lee Library][hbll]
+- Present, *Part-time Software Developer*, [BYU Law Corpus Linguistics][lawlib],
 - 2014, *Geodata Manager*, [Critigen][critigen]
 - 2011, *Geodata Manager*, [Tetra Tech][tt]
 - 2013, *Freelance iOS Developer*
@@ -69,6 +70,7 @@ Provo, UT 84602
 [sjsu]: https://www.sjsu.edu
 [byu]: https://byu.edu
 [hbll]: https://lib.byu.edu
+[lawlib]: https://lawncl.byu.edu
 [personnel]: https://lib.byu.edu/directory/greg-reeve/
 [critigen]: http://www.critigen.com/
 [ivm]: http://www.fs.fed.us/ivm/
