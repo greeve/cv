@@ -51,7 +51,7 @@ Provo, UT 84602
 ## Professional Experience
 
 - Present, [*Data Services Software Developer*][personnel], [Harold B. Lee Library][hbll]
-- Present, *Part-time Software Developer*, [BYU Law Corpus Linguistics][lawlib],
+- Present, *Part-time Software Developer*, [BYU Law Corpus Linguistics][lawlib]
 - 2014, *Geodata Manager*, [Critigen][critigen]
 - 2011, *Geodata Manager*, [Tetra Tech][tt]
 - 2013, *Freelance iOS Developer*
