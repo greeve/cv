@@ -31,6 +31,7 @@ Provo, UT 84602
 
 ## Presentations
 
+- Rennick, B., __Reeve, G.__, & Hansen, C. (2018). *ATOM: A table of metadata*. Poster presented at ULA 2018.
 - __Reeve, G.__ (Nov 2017). *Web Development University Trainings*, "Django Data Migrations".
 - __Reeve, G.__ (Jul 2017). *Web Development University Trainings*, "Django Control Center".
 - __Reeve, G.__ (Feb 2017). *Web Development University Trainings*, "Django Forms".
@@ -40,12 +41,12 @@ Provo, UT 84602
 
 ## Current Research
 
-- Rennick, B., __Reeve, G.__, & Hansen, C. (2018). *ATOM: A table of metadata*. Poster approved for ULA 2018.
 - Rennick, B., Edlund, T., & __Reeve, G.__. (2019). Library exhibit in preparation.
 
 ## Institutional Service
 
 - Present, Member of the [HBLL][hbll] Metadata Management Working Group
+- 2018, Member of the [HBLL][hbll] Exploration of Collaborative-creative Services Task Force
 - 2018, Member of the [HBLL][hbll] Library Membership Task Force
 
 ## Professional Experience
