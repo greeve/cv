@@ -31,7 +31,7 @@ Provo, UT 84602
 
 ## Presentations
 
-- Rennick, B., __Reeve, G.__, & Hansen, C. (2018). *ATOM: A table of metadata*. Poster presented at ULA 2018.
+- Rennick, B., __Reeve, G.__, & Hansen, C. (2018). *Improving Online Access to Faculty-developed Bibliographies, Indexes, and Databases*. Poster presented at ULA 2018.
 - __Reeve, G.__ (Nov 2017). *Web Development University Trainings*, "Django Data Migrations".
 - __Reeve, G.__ (Jul 2017). *Web Development University Trainings*, "Django Control Center".
 - __Reeve, G.__ (Feb 2017). *Web Development University Trainings*, "Django Forms".
