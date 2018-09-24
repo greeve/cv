@@ -22,7 +22,7 @@ h2 + ul > li {
     margin: 0 0 0.75em 0;
 }
 
-h2 + ul + li:nth-child(2) {
+h2 + ul > li > p:nth-child(2) {
     font-size: 0.8em;
 }
 
