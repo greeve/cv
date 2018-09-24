@@ -52,14 +52,16 @@ Provo, UT 84602
 
 ## Professional Experience
 
-- Present, [*Data Services Software Developer*][personnel], [Harold B. Lee Library][hbll]
-- Present, *Part-time Software Developer*, [BYU Law Corpus Linguistics][lawlib]
-- 2014, *Geodata Manager*, [Critigen][critigen]
-- 2011, *Geodata Manager*, [Tetra Tech][tt]
-- 2013, *Freelance iOS Developer*
-- 2010, *Product Engineer*, [ESRI][esri]
-- 2007, *GIS Technician*, [City of Provo][provo-city]
-- 2007, *Student employee*, [BYU Office of Information Technology][oit]
+- November 2014 – Present, [*Data Services Software Developer*][personnel], [Harold B. Lee Library][hbll]
+- February 2018 – Present, *Software Developer (part-time)*, [BYU Law Corpus Linguistics][lawlib]
+- October 2011 – November 2014, *Geodata Manager* for the [U.S. Forest Service][usfs], [Critigen][critigen]
+- April 2010 – October 2011, *Geodata Manager* for the [U.S. Forest Service][usfs], [Tetra Tech][tt]
+- April 2009 – September 2013, *Freelance iOS Developer (part-time)*
+- June 2007 – April 2010, *Product Engineer*, [ESRI][esri]
+- January 2007 – June 2007, *GIS Technician*, [City of Provo][provo-city]
+- May 2007 – January 2007, *Student employee*, [BYU Office of Information Technology][oit]
+- January 2005 – March 2005, *Student employee*, [BYU Custodial][custodial]
+- August 2001 – April 2002, *Student employee*, [BYU Custodial][custodial]
 
 ## Skills
 
@@ -73,6 +75,7 @@ Provo, UT 84602
 [byu]: https://byu.edu
 [hbll]: https://lib.byu.edu
 [lawlib]: https://lawncl.byu.edu
+[usfs]: https://www.fs.fed.us
 [personnel]: https://lib.byu.edu/directory/greg-reeve/
 [critigen]: http://www.critigen.com/
 [ivm]: http://www.fs.fed.us/ivm/
@@ -82,4 +85,5 @@ Provo, UT 84602
 [esri]: http://esri.com/
 [provo-city]: http://www.provo.org/
 [oit]: https://it.byu.edu/
+[custodial]: http://plantwo.byu.edu/custodial/index.html
 [dhu1]: https://web.archive.org/web/20160826211035/http://dhu1.byu.edu:80/
