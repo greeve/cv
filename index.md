@@ -45,16 +45,26 @@ Provo, UT 84602
 
 ## Institutional Service
 
-- Present, Member of the [HBLL][hbll] Metadata Management Working Group
-- Present, Member of the 2019 [LD4][ld4] Conference Program Committee
+- 2019 – Present, Academic Section Chair for the [Utah Library Association][ula]
+- 2019 – Present, Editor for the [HBLL][hbll] Gender Equity Issues for Student Employees Report
+- 2019 – Present, Member of the 2020 [LD4][ld4] Conference Program Committee
+- 2019 – Present, Member of the OCLC Research Library Partners Metadata Managers Focus Group
+- 2019 – Present, Member of the [HBLL][hbll] Scientific Merit Review Committee
+- 2017 – Present, Member of the [HBLL][hbll] Metadata Management Working Group
+- 2019 – February 2020, Member of the [HBLL][hbll] Science & Engineering Department Review Team
+- 2019 – January 2020, Member of the [HBLL][hbll] Cataloging Department Assistant Hiring Committee
+- 2019, Member of the [HBLL][hbll] Scientific Merit Review Task Force
+- 2019, Member of the [HBLL][hbll] Linked data transformation sub-group
+- 2019, Member of the 2019 [LD4][ld4] Conference Program Committee
 - 2018, Member of the [HBLL][hbll] Special Collections Division Review Team
 - 2018, Member of the [HBLL][hbll] Exploration of Collaborative-creative Services Task Force
 - 2018, Member of the [HBLL][hbll] Library Membership Task Force
 
 ## Professional Experience
 
-- November 2014 – Present, [*Data Services Software Developer*][personnel], [Harold B. Lee Library][hbll]
+- January 2019 – Present, *Metadata and Identities Librarian*, [Harold B. Lee Library][hbll]
 - February 2018 – Present, *Software Developer*, [BYU Law & Corpus Linguistics][byulcl]
+- November 2014 – December 2018, [*Data Services Software Developer*][personnel], [Harold B. Lee Library][hbll]
 - October 2011 – November 2014, *Geodata Manager* for the [U.S. Forest Service][usfs], [Critigen][critigen]
 - April 2010 – October 2011, *Geodata Manager* for the [U.S. Forest Service][usfs], [Tetra Tech][tt]
 - May 2009 – September 2013, *Freelance iOS Developer*
@@ -64,7 +74,7 @@ Provo, UT 84602
 
 ## Skills
 
-- *Languages*: Python, Javascript, HTML, CSS, XML, XSLT, SQL, SPARQL, RDF, MARC, MARCXML, EAD
+- *Languages*: Python, Javascript, HTML, CSS, XML, XSLT, SQL, SPARQL, RDF, MARC, MARCXML, EAD, DC
 - *Databases*: Sqlite, MySQL
 - *Tools*: Git, Github, Bitbucket, Linux, macOS, Django, Docker
 
@@ -90,3 +100,4 @@ Provo, UT 84602
 [orem-city]: https://orem.org/
 [custodial]: http://plantwo.byu.edu/custodial/index.html
 [mtc]: https://www.mtc.byu.edu/
+[ula]: http://ula.org
