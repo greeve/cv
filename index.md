@@ -31,7 +31,11 @@ Provo, UT 84602
 
 ## Presentations
 
-- Rennick, B., __Reeve, G.__, & Hansen, C. (2018). *Improving Online Access to Faculty-developed Bibliographies, Indexes, and Databases*. Poster presented at ULA 2018.
+- __Reeve, G.__, Hill, J., Richards, L., & Rice, D. (2019). *[HBLL][hbll] LIT Forum*, "MARC updates and tools for automation".
+- __Reeve, G.__ & Thacker, C. (2019). *[HBLL][hbll] LIT Forum*, "A gentle introduction to linked data". 
+- Day, D., Lyon, J., & __Reeve, G.__ (2019). [*Presentation given at Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM*](http://www.rism.info/en/publications/introducing-a-work-level-in-rism-2019.html), "Work Authority Records and the Application of Linked Data Models". Retrieved from <https://www.youtube.com/watch?v=Ax437tk_2ds>
+- __Reeve, G.__, Nimer, C., & Daines, G. (2019). [*2019 Annual ULA Conference*](https://ula2019.sched.com), "Integrating Authorities: Searching and Context in ArchivesSpace". Retrieved from <https://sched.co/OI2Z>
+- Rennick, B., __Reeve, G.__, & Hansen, C. (2018). *2018 Annual ULA Conference*, "Improving Online Access to Faculty-developed Bibliographies, Indexes, and Databases".
 - __Reeve, G.__ (Nov 2017). *Web Development University Trainings*, "Django Data Migrations".
 - __Reeve, G.__ (Jul 2017). *Web Development University Trainings*, "Django Control Center".
 - __Reeve, G.__ (Feb 2017). *Web Development University Trainings*, "Django Forms".
@@ -39,9 +43,14 @@ Provo, UT 84602
 - __Reeve, G.__ (Jun 2016). *Web Development University Trainings*, "Django Class Based Views".
 - Smart, E. & __Reeve, G.__ (Feb 2016). [*The First Utah Symposium on the Digital Humanities*][dhu1], "Digital Humanities and Digital Libraries".
 
+## Exhibits
+
+- Rennick, B., Edlund, T., & __Reeve, G.__. (2019). *Wax, shellac, and vinyl*.
+
 ## Current Research
 
-- Rennick, B., Edlund, T., & __Reeve, G.__. (2019). Library exhibit in preparation.
+- Lyon, J. & __Reeve, G.__. (2020). Presentation in process.
+- Rennick, B. & __Reeve, G.__. (2019). Publication in process.
 
 ## Institutional Service
 
@@ -53,6 +62,7 @@ Provo, UT 84602
 - 2017 – Present, Member of the [HBLL][hbll] Metadata Management Working Group
 - 2019 – February 2020, Member of the [HBLL][hbll] Science & Engineering Department Review Team
 - 2019 – January 2020, Member of the [HBLL][hbll] Cataloging Department Assistant Hiring Committee
+- 2019, Techincal assistant for the 2019 Annual ULA Pre-conference RDA Workshop
 - 2019, Member of the [HBLL][hbll] Scientific Merit Review Task Force
 - 2019, Member of the [HBLL][hbll] Linked data transformation sub-group
 - 2019, Member of the 2019 [LD4][ld4] Conference Program Committee
