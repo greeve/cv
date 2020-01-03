@@ -61,12 +61,9 @@ h2#education {
         margin-right: 2.54cm;
     }
 
-    body {
-        font-size: 80%;
-    }
-
     div {
-        font-family: Charter;
+        font-family: Charter !important;
+        font-size: 80% !important;
     }
 }
 
