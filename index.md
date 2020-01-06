@@ -49,8 +49,9 @@ Provo, UT 84602
 
 ## Current Research
 
-- Lyon, J. & __Reeve, G.__. (2020). Presentation in process.
-- Rennick, B. & __Reeve, G.__. (2019). Publication in process.
+- Lyon, J. & __Reeve, G.__. (2020). Presentation in process on music catalog data processing. 
+- Rennick, B. & __Reeve, G.__. (2020). Publication in process on catalog data processing and visualization.
+- Wiederhold, R. & __Reeve, G.__. (2021). Presentation and publication in process on archival authority remediation and synchronization.
 
 ## Institutional Service
 
