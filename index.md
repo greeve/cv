@@ -45,13 +45,13 @@ Provo, UT 84602
 
 ## Exhibits
 
-- Rennick, B., Edlund, T., & __Reeve, G.__. (2019). *Wax, shellac, and vinyl*.
+- Rennick, B., Edlund, T., & __Reeve, G.__ (2019). *Wax, shellac, and vinyl*.
 
 ## Current Research
 
-- Lyon, J. & __Reeve, G.__. (2020). Presentation in process on music catalog data processing. 
-- Rennick, B. & __Reeve, G.__. (2020). Publication in process on catalog data processing and visualization.
-- Wiederhold, R. & __Reeve, G.__. (2021). Presentation and publication in process on archival authority remediation and synchronization.
+- Lyon, J. & __Reeve, G.__ (2020). Presentation in process on music catalog data processing. 
+- Rennick, B. & __Reeve, G.__ (2020). Publication in process on catalog data processing and visualization.
+- Wiederhold, R. & __Reeve, G.__ (2021). Presentation and publication in process on archival authority remediation and synchronization.
 
 ## Institutional Service
 
