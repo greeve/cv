@@ -129,5 +129,5 @@ Provo, UT 84602
 [naco]: https://www.loc.gov/catworkshop/courses/naco-RDA/index.html
 [copy]: https://sites.lib.byu.edu/cataloging/department-manual/department-training/6-5-copy-cataloging-instructions/
 [niso-ld-webinar]: https://www.niso.org/events/2019/11/implementing-linked-library-data
-[ld4-conference]: https://wiki.lyrasis.org/display/LD4P2/2019+LD4+Conference+on+Linked+Data+in+Libraries
+[ld4-2019]: https://wiki.lyrasis.org/display/LD4P2/2019+LD4+Conference+on+Linked+Data+in+Libraries
 [ula-2019]: https://ula2019.sched.com
