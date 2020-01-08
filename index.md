@@ -53,23 +53,37 @@ Provo, UT 84602
 - Rennick, B. & __Reeve, G.__ (2020). Publication in process on catalog data processing and visualization.
 - Wiederhold, R. & __Reeve, G.__ (2021). Presentation and publication in process on archival authority remediation and synchronization.
 
+## Professional Development
+
+- December 2019, Receive Resource Description Access (RDA) Toolkit training
+- November 2019, Attend [NISO Implementing Library Linked Data webinar][niso-ld-webinar]
+- September - November 2019, Receive Name Authority Record (NAR) processing training
+- June 2019, Attend American Library Association (ALA) Annual Conference
+- May 2019, Attend [Utah Library Association (ULA) Conference][ula-2019]
+- May 2019, [Attend LD4 Conference on Linked Data in Libraries][ld4-2019]
+- February 2019, Receive [Library of Congress NACO training][naco]
+- January - February 2019, Receive [Department Copy cataloging training][copy]
+- January 2019, Attend American Library Association (ALA) Midwinter Conference
+
 ## Institutional Service
 
 - 2019 – Present, Academic Section Chair for the [Utah Library Association][ula]
-- 2019 – Present, Editor for the [HBLL][hbll] Gender Equity Issues for Student Employees Report
+- 2019 - Present, Convener of the [HBLL][hbll] Metadata Management Working Group
 - 2019 – Present, Member of the 2020 [LD4][ld4] Conference Program Committee
 - 2019 – Present, Member of the OCLC Research Library Partners Metadata Managers Focus Group
 - 2019 – Present, Member of the [HBLL][hbll] Scientific Merit Review Committee
-- 2017 – Present, Member of the [HBLL][hbll] Metadata Management Working Group
+- 2019 – Present, Member of the [HBLL][hbll] Scholarship and Creative Works Committee
 - 2019 – February 2020, Member of the [HBLL][hbll] Science & Engineering Department Review Team
 - 2019 – January 2020, Member of the [HBLL][hbll] Cataloging Department Assistant Hiring Committee
-- 2019, Techincal assistant for the 2019 Annual ULA Pre-conference RDA Workshop
+- 2019, Editor of the [HBLL][hbll] Gender Equity Issues for Student Employees Report
 - 2019, Member of the [HBLL][hbll] Scientific Merit Review Task Force
 - 2019, Member of the [HBLL][hbll] Linked data transformation sub-group
 - 2019, Member of the 2019 [LD4][ld4] Conference Program Committee
-- 2018, Member of the [HBLL][hbll] Special Collections Division Review Team
-- 2018, Member of the [HBLL][hbll] Exploration of Collaborative-creative Services Task Force
+- 2019, Techincal assistant for the 2019 Annual ULA Pre-conference RDA Workshop
 - 2018, Member of the [HBLL][hbll] Library Membership Task Force
+- 2018, Member of the [HBLL][hbll] Exploration of Collaborative-creative Services Task Force
+- 2018, Member of the [HBLL][hbll] Special Collections Division Review Team
+- 2017 – 2018, Member of the [HBLL][hbll] Metadata Management Working Group
 
 ## Professional Experience
 
@@ -112,3 +126,8 @@ Provo, UT 84602
 [custodial]: http://plantwo.byu.edu/custodial/index.html
 [mtc]: https://www.mtc.byu.edu/
 [ula]: http://ula.org
+[naco]: https://www.loc.gov/catworkshop/courses/naco-RDA/index.html
+[copy]: https://sites.lib.byu.edu/cataloging/department-manual/department-training/6-5-copy-cataloging-instructions/
+[niso-ld-webinar]: https://www.niso.org/events/2019/11/implementing-linked-library-data
+[ld4-conference]: https://wiki.lyrasis.org/display/LD4P2/2019+LD4+Conference+on+Linked+Data+in+Libraries
+[ula-2019]: https://ula2019.sched.com
