@@ -2,13 +2,13 @@
 
 ### Address
 
-2750 HBLL  
+6745 HBLL  
 Provo, UT 84602
 
 ### Phone
 
 - ![cell phone](assets/images/iconmonstr-smartphone-3.svg) 801.888.7719
-- ![work phone](assets/images/iconmonstr-phone-1.svg) 801.422.6696
+- ![work phone](assets/images/iconmonstr-phone-1.svg) 801.422.5332
 
 ### Email
 
