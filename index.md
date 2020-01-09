@@ -50,6 +50,7 @@ Provo, UT 84602
 ## Current Research
 
 - Lyon, J. & __Reeve, G.__ (2020). Presentation in process on music catalog data processing. 
+- __Reeve, G.__ (2020). Publication on Mapping the Metadata Landscape in the HBLL
 - Rennick, B. & __Reeve, G.__ (2020). Publication in process on catalog data processing and visualization.
 - Wiederhold, R. & __Reeve, G.__ (2021). Presentation and publication in process on archival authority remediation and synchronization.
 
@@ -57,10 +58,15 @@ Provo, UT 84602
 
 - December 2019, Receive Resource Description Access (RDA) Toolkit training
 - November 2019, Attend [NISO Implementing Library Linked Data webinar][niso-ld-webinar]
+- October 2019, Attend OCLC RLP Metadata Managers Focus Group WebEx Meeting: Professional FTEs and Metadata Work
 - September - November 2019, Receive Name Authority Record (NAR) processing training
+- August 2019, Attend Re:work library consultants presentation
 - June 2019, Attend American Library Association (ALA) Annual Conference
-- May 2019, Attend [Utah Library Association (ULA) Conference][ula-2019]
 - May 2019, [Attend LD4 Conference on Linked Data in Libraries][ld4-2019]
+- May 2019, Attend LD4P Affinity Discovery Group meeting
+- May 2019, Attend [Utah Library Association (ULA) Conference][ula-2019]
+- April 2019, Attend OCLC RLP Metadata Managers Focus Group WebEx Meeting: Systematic Reviews of Metadata
+- March 2019, Attend the Alice Louise Reynolds Lecture
 - February 2019, Receive [Library of Congress NACO training][naco]
 - January - February 2019, Receive [Department Copy cataloging training][copy]
 - January 2019, Attend American Library Association (ALA) Midwinter Conference
