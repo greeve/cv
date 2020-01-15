@@ -69,6 +69,7 @@ Provo, UT 84602
 - March 2019, Attend the Alice Louise Reynolds Lecture
 - February 2019, Receive [Library of Congress NACO training][naco]
 - January - February 2019, Receive [Department Copy cataloging training][copy]
+- January 2019, Attend webinar on the University of Nevada, Reno (UNR) migration to Islandora
 - January 2019, Attend American Library Association (ALA) Midwinter Conference
 
 ## Institutional Service
