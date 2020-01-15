@@ -58,8 +58,8 @@ Provo, UT 84602
 
 - December 2019, Receive Resource Description Access (RDA) Toolkit training
 - November 2019, Attend [NISO Implementing Library Linked Data webinar][niso-ld-webinar]
-- October 2019, Attend OCLC RLP Metadata Managers Focus Group WebEx Meeting: Professional FTEs and Metadata Work
 - September - November 2019, Receive Name Authority Record (NAR) processing training
+- October 2019, Attend OCLC RLP Metadata Managers Focus Group WebEx Meeting: Professional FTEs and Metadata Work
 - August 2019, Attend Re:work library consultants presentation
 - June 2019, Attend American Library Association (ALA) Annual Conference
 - May 2019, [Attend LD4 Conference on Linked Data in Libraries][ld4-2019]
@@ -74,23 +74,24 @@ Provo, UT 84602
 
 ## Institutional Service
 
-- 2019 – Present, Academic Section Chair for the [Utah Library Association][ula]
-- 2019 - Present, Convener of the [HBLL][hbll] Metadata Management Working Group
-- 2019 – Present, Member of the 2020 [LD4][ld4] Conference Program Committee
-- 2019 – Present, Member of the OCLC Research Library Partners Metadata Managers Focus Group
-- 2019 – Present, Member of the [HBLL][hbll] Scientific Merit Review Committee
-- 2019 – Present, Member of the [HBLL][hbll] Scholarship and Creative Works Committee
-- 2019 – February 2020, Member of the [HBLL][hbll] Science & Engineering Department Review Team
-- 2019 – January 2020, Member of the [HBLL][hbll] Cataloging Department Assistant Hiring Committee
-- 2019, Editor of the [HBLL][hbll] Gender Equity Issues for Student Employees Report
-- 2019, Member of the [HBLL][hbll] Scientific Merit Review Task Force
-- 2019, Member of the [HBLL][hbll] Linked data transformation sub-group
-- 2019, Member of the 2019 [LD4][ld4] Conference Program Committee
-- 2019, Techincal assistant for the 2019 Annual ULA Pre-conference RDA Workshop
-- 2018, Member of the [HBLL][hbll] Library Membership Task Force
-- 2018, Member of the [HBLL][hbll] Exploration of Collaborative-creative Services Task Force
-- 2018, Member of the [HBLL][hbll] Special Collections Division Review Team
-- 2017 – 2018, Member of the [HBLL][hbll] Metadata Management Working Group
+- October 2019 – Present, Member of the 2020 [LD4][ld4] Conference Program Committee
+- September 2019 – Present, Member of the [HBLL][hbll] Scientific Merit Review Committee
+- June 2019 – Present, Academic Section Chair for the [Utah Library Association][ula]
+- March 2019 – Present, Member of the [HBLL][hbll] Scholarship and Creative Works Committee
+- January 2019 - Present, Convener of the [HBLL][hbll] Metadata Management Working Group
+- January 2019 – Present, Member of the OCLC Research Library Partners Metadata Managers Focus Group
+- December 2019 – February 2020, Member of the [HBLL][hbll] Science & Engineering Department Review Team
+- December 2019 – January 2020, Member of the [HBLL][hbll] Cataloging Department Assistant Hiring Committee
+- September – December 2019, Editor of the [HBLL][hbll] Gender Equity Issues for Student Employees Report
+- July – December 2019, Member of the [HBLL][hbll] Linked data transformation sub-group
+- August – September 2019, Member of the [HBLL][hbll] Scientific Merit Review Task Force
+- January – May 2019, Member of the 2019 [LD4][ld4] Conference Program Committee
+- May 2019, Techincal assistant for the 2019 Annual ULA Pre-conference RDA Workshop
+- April 2019, Volunteer judge for local Elementary School Scratch programming competition
+- January 2017 – December 2018, Member of the [HBLL][hbll] Metadata Management Working Group
+- October 2018, Member of the [HBLL][hbll] Special Collections Division Review Team
+- March – May 2018, Member of the [HBLL][hbll] Exploration of Collaborative-creative Services Task Force
+- January 2018, Member of the [HBLL][hbll] Library Membership Task Force
 
 ## Professional Experience
 
