@@ -69,7 +69,7 @@ Provo, UT 84602
 - March 2019, Attend a workshop on MarcEdit at the ARLIS/NA Conference
 - March 2019, Attend the Alice Louise Reynolds Lecture
 - February 2019, Receive [Library of Congress NACO training][naco]
-- January - February 2019, Receive [Department Copy cataloging training][copy]
+- January – February 2019, Receive [Department Copy cataloging training][copy]
 - January 2019, Attend webinar on the University of Nevada, Reno (UNR) migration to Islandora
 - January 2019, Attend American Library Association (ALA) Midwinter Conference
 
@@ -79,7 +79,8 @@ Provo, UT 84602
 - September 2019 – Present, Member of the [HBLL][hbll] Scientific Merit Review Committee
 - June 2019 – Present, Academic Section Chair for the [Utah Library Association][ula]
 - March 2019 – Present, Member of the [HBLL][hbll] Scholarship and Creative Works Committee
-- January 2019 - Present, Convener of the [HBLL][hbll] Metadata Management Working Group
+- January 2019 – Present, Convener of the [HBLL][hbll] Metadata Management Working Group
+- January 2019 - Present, Member of the [HBLL][hbll] Library System Management Committe
 - January 2019 – Present, Member of the OCLC Research Library Partners Metadata Managers Focus Group
 - December 2019 – February 2020, Member of the [HBLL][hbll] Science & Engineering Department Review Team
 - December 2019 – January 2020, Member of the [HBLL][hbll] Cataloging Department Assistant Hiring Committee
