@@ -66,6 +66,7 @@ Provo, UT 84602
 - May 2019, Attend LD4P Affinity Discovery Group meeting
 - May 2019, Attend [Utah Library Association (ULA) Conference][ula-2019]
 - April 2019, Attend OCLC RLP Metadata Managers Focus Group WebEx Meeting: Systematic Reviews of Metadata
+- March 2019, Attend a workshop on MarcEdit at the ARLIS/NA Conference
 - March 2019, Attend the Alice Louise Reynolds Lecture
 - February 2019, Receive [Library of Congress NACO training][naco]
 - January - February 2019, Receive [Department Copy cataloging training][copy]
