@@ -31,6 +31,7 @@ Provo, UT 84602
 
 ## Presentations
 
+- Lyon, J., & __Reeve, G.__. (2020). *Music OCLC Users Group (MOUG)*, ["Implementing the Genre and Medium of Performance Algorithm in a Local Catalog"](https://sched.co/Uufy).
 - __Reeve, G.__, Hill, J., Richards, L., & Rice, D. (2019). *[HBLL][hbll] LIT Forum*, "MARC updates and tools for automation".
 - __Reeve, G.__ & Thacker, C. (2019). *[HBLL][hbll] LIT Forum*, "A gentle introduction to linked data". 
 - Day, D., Lyon, J., & __Reeve, G.__ (2019). [*Presentation given at Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM*](http://www.rism.info/en/publications/introducing-a-work-level-in-rism-2019.html), "Work Authority Records and the Application of Linked Data Models". Retrieved from <https://www.youtube.com/watch?v=Ax437tk_2ds>
@@ -49,9 +50,9 @@ Provo, UT 84602
 
 ## Current Research
 
-- Lyon, J. & __Reeve, G.__ (2020). Presentation in process on music catalog data processing. 
-- __Reeve, G.__ (2020). Publication on Mapping the Metadata Landscape in the HBLL
+- Wiederhold, R. & __Reeve, G.__ (2020). Publication in process on the fundamentals of authority control.
 - Rennick, B. & __Reeve, G.__ (2020). Publication in process on catalog data processing and visualization.
+- __Reeve, G.__ (2021). Research and publication on Mapping the Metadata Landscape in the HBLL
 - Wiederhold, R. & __Reeve, G.__ (2021). Presentation and publication in process on archival authority remediation and synchronization.
 
 ## Professional Development
@@ -75,13 +76,13 @@ Provo, UT 84602
 
 ## Institutional Service
 
-- October 2019 – Present, Member of the 2020 [LD4][ld4] Conference Program Committee
 - September 2019 – Present, Member of the [HBLL][hbll] Scientific Merit Review Committee
 - June 2019 – Present, Academic Section Chair for the [Utah Library Association][ula]
 - March 2019 – Present, Member of the [HBLL][hbll] Scholarship and Creative Works Committee
 - January 2019 – Present, Convener of the [HBLL][hbll] Metadata Management Working Group
 - January 2019 - Present, Member of the [HBLL][hbll] Library System Management Committe
 - January 2019 – Present, Member of the OCLC Research Library Partners Metadata Managers Focus Group
+- October 2019 – July 2020, Member of the 2020 [LD4][ld4] Conference Program Committee
 - December 2019 – February 2020, Member of the [HBLL][hbll] Science & Engineering Department Review Team
 - December 2019 – January 2020, Member of the [HBLL][hbll] Cataloging Department Assistant Hiring Committee
 - September – December 2019, Editor of the [HBLL][hbll] Gender Equity Issues for Student Employees Report
