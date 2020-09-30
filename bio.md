@@ -4,5 +4,4 @@ Greg Reeve earned a Bachelors of Science in Geography with an emphasis in Geogra
 
 # 2020/02/13
 
-Greg Reeve is the Metadata and Identities Librarian at the HBLL since the beginning of 2019. Previous to becoming the library's Metadata and Identities Librarian he worked as a web developer within the library's IT division. His professional assignment includes filling the role as the library's NACO coordinator, processing name authority records, monitoring the quality and use of metadata within various library systems, and leading the library in its linked data efforts. His research interests include metadata governance, assessment, and implementation, authority control, and semantic web technologies.
-
+Greg Reeve is the Metadata and Identities Librarian at the HBLL since 2019. Previously he worked as a web developer within the Library's IT division. His professional assignment includes filling the role as the library's NACO coordinator, processing name authority records, monitoring the quality and use of metadata within various library systems, and leading the library in its linked data efforts. His research interests include metadata governance, assessment, and implementation, authority control, and semantic web technologies.
