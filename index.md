@@ -26,6 +26,7 @@ Provo, UT 84602
 
 ## Publications
 
+- Wiederhold, R. & __Reeve, G.__ (2020). *Authority control today: Principles, practices, and trends*. (Accepted, in-review)
 - Zaugg, H., McKeen, Q., & __Reeve, G.__ (October 2016). *Using a social network analysis to inform library communication patterns within the Harold B. Lee Library*. Proceedings of the Library Assessment Conference, Arlington, VA. Retrieved from <http://old.libraryassessment.org/bm~doc/80-zaugg-2016.pdf>
 - __Reeve, G.__ (2016). *Masters of Library and Information Science Portfolio*. Retrieved from <https://greeve.github.io/eportfolio/>
 
@@ -50,13 +51,22 @@ Provo, UT 84602
 
 ## Current Research
 
-- Wiederhold, R. & __Reeve, G.__ (2020). Publication in process on the fundamentals of authority control.
 - Rennick, B. & __Reeve, G.__ (2020). Publication in process on catalog data processing and visualization.
 - __Reeve, G.__ (2021). Research and publication on Mapping the Metadata Landscape in the HBLL
 - Wiederhold, R. & __Reeve, G.__ (2021). Presentation and publication in process on archival authority remediation and synchronization.
 
 ## Professional Development
 
+- October 2020, Attend OCLC webinar on using FAST headings for subject headings
+- September 2020, Attend MarcEdit Shelter-In-Place trainings
+- August 2020, Attend North American RDA Committee Update Forum
+- July 2020, Attend webinar: DIY Catalog Maintenance and Authority Control
+- May 2020, Attend 2020 PCC Operations Committee meeting
+- May 2020, Attend OCLC webinar: Data Migration
+- March 2020, Attend Representative Expressions and Manifestation Statements RDA Training
+- March 2020, Attend Nomens and Appellations Department RDA Training
+- February 2020, Attend ALCTS webinar: Metadata Enriching and Discovery
+- January 2020, Attend American Library Association (ALA) Midwinter Conference
 - December 2019, Receive Resource Description Access (RDA) Toolkit training
 - November 2019, Attend [NISO Implementing Library Linked Data webinar][niso-ld-webinar]
 - September - November 2019, Receive Name Authority Record (NAR) processing training
@@ -82,6 +92,9 @@ Provo, UT 84602
 - January 2019 – Present, Convener of the [HBLL][hbll] Metadata Management Working Group
 - January 2019 - Present, Member of the [HBLL][hbll] Library System Management Committe
 - January 2019 – Present, Member of the OCLC Research Library Partners Metadata Managers Focus Group
+- August 2020, Member of the [HBLL][hbll] Director of IT Hiring Committee
+- May 2020 – June 2020, Reviewer of OCLC Research Library Partners Metadata Managers Focus Group Report
+- March 2020 - July 2020, Member of the [HBLL][hbll] Central American and South American Area Studies and Romance Languages Catalog Librarian Search and Screen Committee
 - October 2019 – July 2020, Member of the 2020 [LD4][ld4] Conference Program Committee
 - December 2019 – February 2020, Member of the [HBLL][hbll] Science & Engineering Department Review Team
 - December 2019 – January 2020, Member of the [HBLL][hbll] Cataloging Department Assistant Hiring Committee
@@ -112,7 +125,7 @@ Provo, UT 84602
 
 - *Languages*: Python, Javascript, HTML, CSS, XML, XSLT, SQL, SPARQL, RDF, MARC, MARCXML, EAD, DC
 - *Databases*: Sqlite, MySQL
-- *Tools*: Git, Github, Bitbucket, Linux, macOS, Django, Docker
+- *Tools*: Git, Github, Bitbucket, Gitlab, Linux, macOS, Django, bash
 
 [github-site]: https://greeve.github.io
 [github-account]: https://github.com/greeve
