@@ -47,7 +47,7 @@ Provo, UT 84602
 
 ## Exhibits
 
-- Rennick, B., Edlund, T., & __Reeve, G.__ (2019). *Wax, shellac, and vinyl*.
+- Rennick, B., Edlund, T., & __Reeve, G.__ (2019). *Wax, shellac, and vinyl: An Aural Odyssey*.
 
 ## Current Research
 
