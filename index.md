@@ -26,7 +26,7 @@ Provo, UT 84602
 
 ## Publications
 
-- Wiederhold, R. & __Reeve, G.__ (2020). *Authority control today: Principles, practices, and trends*. (Accepted, in-review)
+- Wiederhold, R. & __Reeve, G.__ (2020). *Authority control today: Principles, practices, and trends*. (Submited to "Cataloging & Classification Quarterly", accepted, in-review)
 - Zaugg, H., McKeen, Q., & __Reeve, G.__ (October 2016). *Using a social network analysis to inform library communication patterns within the Harold B. Lee Library*. Proceedings of the Library Assessment Conference, Arlington, VA. Retrieved from <http://old.libraryassessment.org/bm~doc/80-zaugg-2016.pdf>
 - __Reeve, G.__ (2016). *Masters of Library and Information Science Portfolio*. Retrieved from <https://greeve.github.io/eportfolio/>
 
