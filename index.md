@@ -93,7 +93,7 @@ Provo, UT 84602
 - January 2019 - Present, Member of the [HBLL][hbll] Library System Management Committe
 - January 2019 – Present, Member of the OCLC Research Library Partners Metadata Managers Focus Group
 - August 2020, Member of the [HBLL][hbll] Director of IT Hiring Committee
-- May 2020 – June 2020, Reviewer of OCLC Research Library Partners Metadata Managers Focus Group Report
+- May 2020 – June 2020, Reviewer of the [OCLC Research Library Partners Metadata Managers Focus Group Report](https://www.oclc.org/research/publications/2020/oclcresearch-transitioning-next-generation-metadata.html)
 - March 2020 - July 2020, Member of the [HBLL][hbll] Central American and South American Area Studies and Romance Languages Catalog Librarian Search and Screen Committee
 - October 2019 – July 2020, Member of the 2020 [LD4][ld4] Conference Program Committee
 - December 2019 – February 2020, Member of the [HBLL][hbll] Science & Engineering Department Review Team
