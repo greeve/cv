@@ -32,18 +32,18 @@ Provo, UT 84602
 
 ## Presentations
 
-- Lyon, J., & __Reeve, G.__. (2020). *Music OCLC Users Group (MOUG)*, ["Implementing the Genre and Medium of Performance Algorithm in a Local Catalog"](https://sched.co/Uufy).
-- __Reeve, G.__, Hill, J., Richards, L., & Rice, D. (2019). *[HBLL][hbll] LIT Forum*, "MARC updates and tools for automation".
-- __Reeve, G.__ & Thacker, C. (2019). *[HBLL][hbll] LIT Forum*, "A gentle introduction to linked data". 
-- Day, D., Lyon, J., & __Reeve, G.__ (2019). [*Presentation given at Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM*](http://www.rism.info/en/publications/introducing-a-work-level-in-rism-2019.html), "Work Authority Records and the Application of Linked Data Models". Retrieved from <https://www.youtube.com/watch?v=Ax437tk_2ds>
-- __Reeve, G.__, Nimer, C., & Daines, G. (2019). [*2019 Annual ULA Conference*](https://ula2019.sched.com), "Integrating Authorities: Searching and Context in ArchivesSpace". Retrieved from <https://sched.co/OI2Z>
-- Rennick, B., __Reeve, G.__, & Hansen, C. (2018). *2018 Annual ULA Conference*, "Improving Online Access to Faculty-developed Bibliographies, Indexes, and Databases".
-- __Reeve, G.__ (Nov 2017). *Web Development University Trainings*, "Django Data Migrations".
-- __Reeve, G.__ (Jul 2017). *Web Development University Trainings*, "Django Control Center".
-- __Reeve, G.__ (Feb 2017). *Web Development University Trainings*, "Django Forms".
-- __Reeve, G.__ (Jan 2017). *Web Development University Trainings*, "D3js".
-- __Reeve, G.__ (Jun 2016). *Web Development University Trainings*, "Django Class Based Views".
-- Smart, E. & __Reeve, G.__ (Feb 2016). [*The First Utah Symposium on the Digital Humanities*][dhu1], "Digital Humanities and Digital Libraries".
+- Lyon, J., & __Reeve, G.__ (2020). *Implementing the Genre and Medium of Performance Algorithm in a Local Catalog*, [Music OCLC Users Group (MOUG)](https://sched.co/Uufy). Norfolk, VA.
+- __Reeve, G.__, Hill, J., Richards, L., & Rice, D. (2019). *MARC updates and tools for automation*, [HBLL][hbll] LIT Forum.
+- __Reeve, G.__ & Thacker, C. (2019). *A gentle introduction to linked data*, [HBLL][hbll] LIT Forum.
+- Day, D., Lyon, J., & __Reeve, G.__ (2019). *Work Authority Records and the Application of Linked Data Models*. [Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM](http://www.rism.info/en/publications/introducing-a-work-level-in-rism-2019.html). Retrieved from <https://www.youtube.com/watch?v=Ax437tk_2ds>
+- __Reeve, G.__, Nimer, C., & Daines, G. (2019). *Integrating Authorities: Searching and Context in ArchivesSpace*, [2019 Annual ULA Conference](https://ula2019.sched.com), Retrieved from <https://sched.co/OI2Z>
+- Rennick, B., __Reeve, G.__, & Hansen, C. (2018). *Improving Online Access to Faculty-developed Bibliographies, Indexes, and Databases*, 2018 Annual ULA Conference.
+- __Reeve, G.__ (Nov 2017). *Django Data Migrations*, Web Development University Trainings.
+- __Reeve, G.__ (Jul 2017). *Django Control Center*, Web Development University Trainings.
+- __Reeve, G.__ (Feb 2017). *Django Forms*, Web Development University Trainings.
+- __Reeve, G.__ (Jan 2017). *D3js*, Web Development University Trainings.
+- __Reeve, G.__ (Jun 2016). *Django Class Based Views*, Web Development University Trainings.
+- Smart, E. & __Reeve, G.__ (Feb 2016). *Digital Humanities and Digital Libraries*, [The First Utah Symposium on the Digital Humanities][dhu1]. Orem, UT.
 
 ## Exhibits
 
@@ -52,8 +52,8 @@ Provo, UT 84602
 ## Current Research
 
 - Rennick, B. & __Reeve, G.__ (2020). Publication in process on catalog data processing and visualization.
-- __Reeve, G.__ (2021). Research and publication on Mapping the Metadata Landscape in the HBLL
-- Wiederhold, R. & __Reeve, G.__ (2021). Presentation and publication in process on archival authority remediation and synchronization.
+- __Reeve, G.__ (2022). Research and publication on Mapping the Metadata Landscape in the HBLL
+- Wiederhold, R. & __Reeve, G.__ (2022). Presentation and publication in process on archival authority remediation and synchronization.
 
 ## Professional Development
 
