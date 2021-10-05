@@ -7,17 +7,18 @@ Provo, UT 84602
 
 ### Phone
 
-- ![cell phone](assets/images/iconmonstr-smartphone-3.svg) 801.888.7719
-- ![work phone](assets/images/iconmonstr-phone-1.svg) 801.422.5332
+- ![cell phone][cell-svg] 801.888.7719
+- ![work phone][work-svg] 801.422.5332
 
 ### Email
 
-- ![email](assets/images/iconmonstr-email-1.svg) <greg_reeve@byu.edu>
+- ![email][email-svg] <greg_reeve@byu.edu>
 
 ### Links
 
-- ![weblink](assets/images/iconmonstr-globe-3.svg) [greeve.github.io][github-site]
-- ![github](assets/images/iconmonstr-github-1.svg) [github.com/greeve][github-account]
+- ![weblink][weblink-svg] [greeve.github.io][github-site]
+- ![github][github-svg] [github.com/greeve][github-account]
+- ![gitlab][gitlab-svg] [gitlab.com/greeve][gitlab-account]
 
 ## Education
 
@@ -26,17 +27,19 @@ Provo, UT 84602
 
 ## Publications
 
-- Wiederhold, R. & __Reeve, G.__ (2021). Authority control today: Principles, practices, and trends. *Cataloging & Classification Quarterly*. Manuscript submitted for publication.
+- Wiederhold, R. & __Reeve, G.__ (2021). Authority control today: Principles, practices, and trends. *Cataloging & Classification Quarterly*, *59*(2-3), 129-158. Retrieved from <https://doi.org/10.1080/01639374.2021.1881009>
 - Zaugg, H., McKeen, Q., & __Reeve, G.__ (October 2016). Using a social network analysis to inform library communication patterns within the Harold B. Lee Library. *Proceedings of the Library Assessment Conference*, Arlington, VA. Retrieved from <http://old.libraryassessment.org/bm~doc/80-zaugg-2016.pdf>
 - __Reeve, G.__ (2016). *Masters of Library and Information Science Portfolio*. Retrieved from <https://greeve.github.io/eportfolio/>
 
 ## Presentations
 
-- Lyon, J., & __Reeve, G.__ (2020). *Implementing the Genre and Medium of Performance Algorithm in a Local Catalog*, [Music OCLC Users Group (MOUG)](https://sched.co/Uufy). Norfolk, VA.
+- __Reeve, G.__ (2021). *Preparing for linked data: Mapping a library's metadata landscape*, [2021 LD4 Conference on Linked Data][ld4-2021]. Retrieved from <https://sites.google.com/stanford.edu/2021ld4conf/sessions/posters>
+- __Reeve, G.__ (2021). *State of the Metadata*, [HBLL][hbll] Forum.
+- Lyon, J., & __Reeve, G.__ (2020). *Implementing the Genre and Medium of Performance Algorithm in a Local Catalog*, [Music OCLC Users Group (MOUG)][moug], Norfolk, VA.
 - __Reeve, G.__, Hill, J., Richards, L., & Rice, D. (2019). *MARC updates and tools for automation*, [HBLL][hbll] LIT Forum.
 - __Reeve, G.__ & Thacker, C. (2019). *A gentle introduction to linked data*, [HBLL][hbll] LIT Forum.
-- Day, D., Lyon, J., & __Reeve, G.__ (2019). *Work Authority Records and the Application of Linked Data Models*. [Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM](http://www.rism.info/en/publications/introducing-a-work-level-in-rism-2019.html). Retrieved from <https://www.youtube.com/watch?v=Ax437tk_2ds>
-- __Reeve, G.__, Nimer, C., & Daines, G. (2019). *Integrating Authorities: Searching and Context in ArchivesSpace*, [2019 Annual ULA Conference](https://ula2019.sched.com), Retrieved from <https://sched.co/OI2Z>
+- Day, D., Lyon, J., & __Reeve, G.__ (2019). *Work Authority Records and the Application of Linked Data Models*. [Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM][rism]. Retrieved from <https://www.youtube.com/watch?v=Ax437tk_2ds>
+- __Reeve, G.__, Nimer, C., & Daines, G. (2019). *Integrating Authorities: Searching and Context in ArchivesSpace*, [2019 Annual ULA Conference][ula-2019], Retrieved from <https://sched.co/OI2Z>
 - Rennick, B., __Reeve, G.__, & Hansen, C. (2018). *Improving Online Access to Faculty-developed Bibliographies, Indexes, and Databases*, 2018 Annual ULA Conference.
 - __Reeve, G.__ (Nov 2017). *Django Data Migrations*, Web Development University Trainings.
 - __Reeve, G.__ (Jul 2017). *Django Control Center*, Web Development University Trainings.
@@ -51,7 +54,6 @@ Provo, UT 84602
 
 ## Current Research
 
-- Rennick, B. & __Reeve, G.__ (2020). Publication in process on catalog data processing and visualization.
 - __Reeve, G.__ (2022). Research and publication on Mapping the Metadata Landscape in the HBLL
 - Wiederhold, R. & __Reeve, G.__ (2022). Presentation and publication in process on archival authority remediation and synchronization.
 
@@ -86,9 +88,9 @@ Provo, UT 84602
 
 ## Institutional Service
 
+- April 2021 - Present, Member of the [HBLL][hbll] Digital Metadata Librarian Hiring Committee
+- January 2021 - Present, Chair of the the [HBLL][hbll] Scholarship Committee
 - September 2019 – Present, Member of the [HBLL][hbll] Scientific Merit Review Committee
-- June 2019 – Present, Academic Section Chair for the [Utah Library Association][ula]
-- March 2019 – Present, Member of the [HBLL][hbll] Scholarship and Creative Works Committee
 - January 2019 – Present, Convener of the [HBLL][hbll] Metadata Management Working Group
 - January 2019 - Present, Member of the [HBLL][hbll] Library System Management Committe
 - January 2019 – Present, Member of the OCLC Research Library Partners Metadata Managers Focus Group
@@ -96,6 +98,8 @@ Provo, UT 84602
 - May 2020 – June 2020, Reviewer of the [OCLC Research Library Partners Metadata Managers Focus Group Report](https://www.oclc.org/research/publications/2020/oclcresearch-transitioning-next-generation-metadata.html)
 - March 2020 - July 2020, Member of the [HBLL][hbll] Central American and South American Area Studies and Romance Languages Catalog Librarian Search and Screen Committee
 - October 2019 – July 2020, Member of the 2020 [LD4][ld4] Conference Program Committee
+- June 2019 – June 2021, Academic Section Chair for the [Utah Library Association][ula]
+- March 2019 – December 2020, Member of the [HBLL][hbll] Scholarship and Creative Works Committee
 - December 2019 – February 2020, Member of the [HBLL][hbll] Science & Engineering Department Review Team
 - December 2019 – January 2020, Member of the [HBLL][hbll] Cataloging Department Assistant Hiring Committee
 - September – December 2019, Editor of the [HBLL][hbll] Gender Equity Issues for Student Employees Report
@@ -127,11 +131,20 @@ Provo, UT 84602
 - *Databases*: Sqlite, MySQL
 - *Tools*: Git, Github, Bitbucket, Gitlab, Linux, macOS, Django, bash
 
+[cell-svg]: assets/images/iconmonstr-smartphone-3.svg "Cellphone"
+[work-svg]: assets/images/iconmonstr-phone-1.svg "Work phone"
+[email-svg]: assets/images/iconmonstr-email-1.svg "Email"
+[weblink-svg]: assets/images/iconmonstr-globe-3.svg "Github pages" 
+[github-svg]: assets/images/iconmonstr-github-1.svg "Github"
+[gitlab-svg]: assets/images/gitlab_logo_sm.svg "Gitlab"
 [github-site]: https://greeve.github.io
 [github-account]: https://github.com/greeve
+[gitlab-account]: https://gitlab.com/greeve
 [sjsu]: https://www.sjsu.edu
-[dhu1]: https://web.archive.org/web/20160826211035/http://dhu1.byu.edu:80/
 [byu]: https://byu.edu
+[moug]: https://sched.co/Uufy
+[rism]: http://www.rism.info/en/publications/introducing-a-work-level-in-rism-2019.html
+[dhu1]: https://web.archive.org/web/20160826211035/http://dhu1.byu.edu:80/
 [hbll]: https://lib.byu.edu
 [byulcl]: https://lcl.byu.edu/
 [lawncl]: https://lawncl.byu.edu/
@@ -155,3 +168,4 @@ Provo, UT 84602
 [niso-ld-webinar]: https://www.niso.org/events/2019/11/implementing-linked-library-data
 [ld4-2019]: https://wiki.lyrasis.org/display/LD4P2/2019+LD4+Conference+on+Linked+Data+in+Libraries
 [ula-2019]: https://ula2019.sched.com
+[ld4-2021]: https://ld42021.sched.com
