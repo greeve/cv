@@ -59,9 +59,9 @@ Provo, UT 84602
 
 ## Professional Development
 
-- June 2021, Real-World data governance: Data governance roles as the backbone of your program
-- March 2021, NARDAC Update
-- January 2021, An Introduction to ArchivesSpace v3.0 and the Expanded Agents Module Confirmation
+- June 2021, Attend webinar: Real-World data governance: Data governance roles as the backbone of your program
+- March 2021, Attend North American RDA Committee Update Forum
+- January 2021, Attend webinar: An Introduction to ArchivesSpace v3.0 and the Expanded Agents Module Confirmation
 - October 2020, Attend OCLC webinar on using FAST headings for subject headings
 - September 2020, Attend MarcEdit Shelter-In-Place trainings
 - August 2020, Attend North American RDA Committee Update Forum
