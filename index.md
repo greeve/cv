@@ -59,6 +59,9 @@ Provo, UT 84602
 
 ## Professional Development
 
+- June 2021, Real-World data governance: Data governance roles as the backbone of your program
+- March 2021, NARDAC Update
+- January 2021, An Introduction to ArchivesSpace v3.0 and the Expanded Agents Module Confirmation
 - October 2020, Attend OCLC webinar on using FAST headings for subject headings
 - September 2020, Attend MarcEdit Shelter-In-Place trainings
 - August 2020, Attend North American RDA Committee Update Forum
@@ -88,8 +91,10 @@ Provo, UT 84602
 
 ## Institutional Service
 
-- April 2021 - Present, Member of the [HBLL][hbll] Digital Metadata Librarian Hiring Committee
+- May 2021 - Present, Member of the Change Management for Authoritative Data Working Group
+- April 2021 - Present, Member of the [HBLL][hbll] Digital Metadata Librarian Search and Screen Committee
 - January 2021 - Present, Chair of the the [HBLL][hbll] Scholarship Committee
+- February 2020 - Present, Member of the OCLC Entity Management Advisory Group
 - September 2019 – Present, Member of the [HBLL][hbll] Scientific Merit Review Committee
 - January 2019 – Present, Convener of the [HBLL][hbll] Metadata Management Working Group
 - January 2019 - Present, Member of the [HBLL][hbll] Library System Management Committe
