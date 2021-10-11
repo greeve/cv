@@ -92,6 +92,7 @@ Provo, UT 84602
 ## Institutional Service
 
 - May 2021 - Present, Member of the Change Management for Authoritative Data Working Group
+- May 2021 - Present, Assistant Department Chair over technology
 - April 2021 - Present, Member of the [HBLL][hbll] Digital Metadata Librarian Search and Screen Committee
 - January 2021 - Present, Chair of the the [HBLL][hbll] Scholarship Committee
 - February 2020 - Present, Member of the OCLC Entity Management Advisory Group
