@@ -95,6 +95,7 @@ Provo, UT 84602
 - May 2021 - Present, Member of the Change Management for Authoritative Data Working Group
 - April 2021 - Present, Member of the [HBLL][hbll] Digital Metadata Librarian Search and Screen Committee
 - January 2021 - Present, Chair of the the [HBLL][hbll] Scholarship Committee
+- January 2021 - Present, Member of the [HBLL][hbll] Archives System Management Committee (ASMC) Committee
 - February 2020 - Present, Member of the OCLC Entity Management Advisory Group
 - September 2019 – Present, Member of the [HBLL][hbll] Scientific Merit Review Committee
 - January 2019 – Present, Convener of the [HBLL][hbll] Metadata Management Working Group
