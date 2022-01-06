@@ -27,6 +27,7 @@ Provo, UT 84602
 
 ## Publications
 
+- Wiederhold, R. & __Reeve, G.__ (2021). Authority control today: Principles, practices, and trends. In G. L. Hoffman & K. Snow (Eds.), *Cataloging and classification: Back to basics* (pp. 59-88). Routledge. 
 - Wiederhold, R. & __Reeve, G.__ (2021). Authority control today: Principles, practices, and trends. *Cataloging & Classification Quarterly*, *59*(2-3), 129-158. Retrieved from <https://doi.org/10.1080/01639374.2021.1881009>
 - Zaugg, H., McKeen, Q., & __Reeve, G.__ (October 2016). Using a social network analysis to inform library communication patterns within the Harold B. Lee Library. *Proceedings of the Library Assessment Conference*, Arlington, VA. Retrieved from <http://old.libraryassessment.org/bm~doc/80-zaugg-2016.pdf>
 - __Reeve, G.__ (2016). *Masters of Library and Information Science Portfolio*. Retrieved from <https://greeve.github.io/eportfolio/>
@@ -59,6 +60,8 @@ Provo, UT 84602
 
 ## Professional Development
 
+- November 2021, Attend workshop and sessions at [Semantic Web in Libraries conference][swib-2021]
+- July 2021, Attend [LD4 Conference on Linked Data in Libraries][ld4-2021]
 - June 2021, Attend webinar: Real-World data governance: Data governance roles as the backbone of your program
 - March 2021, Attend North American RDA Committee Update Forum
 - January 2021, Attend webinar: An Introduction to ArchivesSpace v3.0 and the Expanded Agents Module Confirmation
@@ -78,7 +81,7 @@ Provo, UT 84602
 - October 2019, Attend OCLC RLP Metadata Managers Focus Group WebEx Meeting: Professional FTEs and Metadata Work
 - August 2019, Attend Re:work library consultants presentation
 - June 2019, Attend American Library Association (ALA) Annual Conference
-- May 2019, [Attend LD4 Conference on Linked Data in Libraries][ld4-2019]
+- May 2019, Attend [LD4 Conference on Linked Data in Libraries][ld4-2019]
 - May 2019, Attend LD4P Affinity Discovery Group meeting
 - May 2019, Attend [Utah Library Association (ULA) Conference][ula-2019]
 - April 2019, Attend OCLC RLP Metadata Managers Focus Group WebEx Meeting: Systematic Reviews of Metadata
@@ -91,17 +94,19 @@ Provo, UT 84602
 
 ## Institutional Service
 
+- December 2021 - Present, Member of CCLA Honor the Name committee
 - May 2021 - Present, Assistant Department Chair over technology
 - May 2021 - Present, Member of the Change Management for Authoritative Data Working Group
-- April 2021 - Present, Member of the [HBLL][hbll] Digital Metadata Librarian Search and Screen Committee
 - January 2021 - Present, Chair of the the [HBLL][hbll] Scholarship Committee
 - January 2021 - Present, Member of the [HBLL][hbll] Archives System Management Committee
-- February 2020 - Present, Member of the OCLC Entity Management Advisory Group
 - September 2019 – Present, Member of the [HBLL][hbll] Scientific Merit Review Committee
 - January 2019 – Present, Convener of the [HBLL][hbll] Metadata Management Working Group
 - January 2019 - Present, Member of the [HBLL][hbll] Library System Management Committe
 - January 2019 – Present, Member of the OCLC Research Library Partners Metadata Managers Focus Group
-- August 2020, Member of the [HBLL][hbll] Director of IT Hiring Committee
+- August 2021 - December 2021, Site iternship supervisor for a library science masters student
+- April 2021 - December 2021, Member of the [HBLL][hbll] Digital Metadata Librarian Search and Screen Committee
+- February 2020 - December 2021, Member of the OCLC Entity Management Advisory Group
+- August 2020 - August 2020, Member of the [HBLL][hbll] Director of IT Hiring Committee
 - May 2020 – June 2020, Reviewer of the [OCLC Research Library Partners Metadata Managers Focus Group Report](https://www.oclc.org/research/publications/2020/oclcresearch-transitioning-next-generation-metadata.html)
 - March 2020 - July 2020, Member of the [HBLL][hbll] Central American and South American Area Studies and Romance Languages Catalog Librarian Search and Screen Committee
 - October 2019 – July 2020, Member of the 2020 [LD4][ld4] Conference Program Committee
@@ -113,12 +118,12 @@ Provo, UT 84602
 - July – December 2019, Member of the [HBLL][hbll] Linked data transformation sub-group
 - August – September 2019, Member of the [HBLL][hbll] Scientific Merit Review Task Force
 - January – May 2019, Member of the 2019 [LD4][ld4] Conference Program Committee
-- May 2019, Techincal assistant for the 2019 Annual ULA Pre-conference RDA Workshop
-- April 2019, Volunteer judge for local Elementary School Scratch programming competition
+- April 2019 - May 2019, Techincal assistant for the 2019 Annual ULA Pre-conference RDA Workshop
+- April 2019 - April 2019, Volunteer judge for local Elementary School Scratch programming competition
 - January 2017 – December 2018, Member of the [HBLL][hbll] Metadata Management Working Group
-- October 2018, Member of the [HBLL][hbll] Special Collections Division Review Team
-- March – May 2018, Member of the [HBLL][hbll] Exploration of Collaborative-creative Services Task Force
-- January 2018, Member of the [HBLL][hbll] Library Membership Task Force
+- September 2018 - October 2018, Member of the [HBLL][hbll] Special Collections Division Review Team
+- March 2018 – May 2018, Member of the [HBLL][hbll] Exploration of Collaborative-creative Services Task Force
+- January 2018 - January 2018, Member of the [HBLL][hbll] Library Membership Task Force
 
 ## Professional Experience
 
@@ -176,3 +181,4 @@ Provo, UT 84602
 [ld4-2019]: https://wiki.lyrasis.org/display/LD4P2/2019+LD4+Conference+on+Linked+Data+in+Libraries
 [ula-2019]: https://ula2019.sched.com
 [ld4-2021]: https://ld42021.sched.com
+[swib-2021]: https://swib.org/swib21/
