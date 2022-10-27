@@ -60,6 +60,7 @@ Provo, UT 84602
 
 ## Professional Development
 
+- July 2022, Attend the 2022 [Leading Change Institute][lci]
 - November 2021, Attend workshop and sessions at [Semantic Web in Libraries conference][swib-2021]
 - July 2021, Attend [LD4 Conference on Linked Data in Libraries][ld4-2021]
 - June 2021, Attend webinar: Real-World data governance: Data governance roles as the backbone of your program
@@ -94,36 +95,38 @@ Provo, UT 84602
 
 ## Institutional Service
 
+- October 2022 - Present, Chair of the WWC-MMC Joint Subcommittee 
+- October 2022 - Present, Member of the Metadata Management Committee
 - December 2021 - Present, Member of CCLA Honor the Name committee
 - May 2021 - Present, Assistant Department Chair over technology
 - May 2021 - Present, Member of the Change Management for Authoritative Data Working Group
-- January 2021 - Present, Chair of the the [HBLL][hbll] Scholarship Committee
 - January 2021 - Present, Member of the [HBLL][hbll] Archives System Management Committee
 - September 2019 – Present, Member of the [HBLL][hbll] Scientific Merit Review Committee
-- January 2019 – Present, Convener of the [HBLL][hbll] Metadata Management Working Group
 - January 2019 - Present, Member of the [HBLL][hbll] Library System Management Committe
 - January 2019 – Present, Member of the OCLC Research Library Partners Metadata Managers Focus Group
 - August 2021 - December 2021, Site iternship supervisor for a library science masters student
 - April 2021 - December 2021, Member of the [HBLL][hbll] Digital Metadata Librarian Search and Screen Committee
+- January 2021 - January 2022, Chair of the the [HBLL][hbll] Scholarship Committee
 - February 2020 - December 2021, Member of the OCLC Entity Management Advisory Group
 - August 2020 - August 2020, Member of the [HBLL][hbll] Director of IT Hiring Committee
 - May 2020 – June 2020, Reviewer of the [OCLC Research Library Partners Metadata Managers Focus Group Report](https://www.oclc.org/research/publications/2020/oclcresearch-transitioning-next-generation-metadata.html)
 - March 2020 - July 2020, Member of the [HBLL][hbll] Central American and South American Area Studies and Romance Languages Catalog Librarian Search and Screen Committee
-- October 2019 – July 2020, Member of the 2020 [LD4][ld4] Conference Program Committee
-- June 2019 – June 2021, Academic Section Chair for the [Utah Library Association][ula]
-- March 2019 – December 2020, Member of the [HBLL][hbll] Scholarship and Creative Works Committee
 - December 2019 – February 2020, Member of the [HBLL][hbll] Science & Engineering Department Review Team
 - December 2019 – January 2020, Member of the [HBLL][hbll] Cataloging Department Assistant Hiring Committee
+- October 2019 – July 2020, Member of the 2020 [LD4][ld4] Conference Program Committee
 - September – December 2019, Editor of the [HBLL][hbll] Gender Equity Issues for Student Employees Report
-- July – December 2019, Member of the [HBLL][hbll] Linked data transformation sub-group
 - August – September 2019, Member of the [HBLL][hbll] Scientific Merit Review Task Force
-- January – May 2019, Member of the 2019 [LD4][ld4] Conference Program Committee
+- July – December 2019, Member of the [HBLL][hbll] Linked data transformation sub-group
+- June 2019 – June 2021, Academic Section Chair for the [Utah Library Association][ula]
 - April 2019 - May 2019, Techincal assistant for the 2019 Annual ULA Pre-conference RDA Workshop
 - April 2019 - April 2019, Volunteer judge for local Elementary School Scratch programming competition
-- January 2017 – December 2018, Member of the [HBLL][hbll] Metadata Management Working Group
+- March 2019 – December 2020, Member of the [HBLL][hbll] Scholarship and Creative Works Committee
+- January 2019 – October 2022, Convener of the [HBLL][hbll] Metadata Management Working Group
+- January – May 2019, Member of the 2019 [LD4][ld4] Conference Program Committee
 - September 2018 - October 2018, Member of the [HBLL][hbll] Special Collections Division Review Team
 - March 2018 – May 2018, Member of the [HBLL][hbll] Exploration of Collaborative-creative Services Task Force
 - January 2018 - January 2018, Member of the [HBLL][hbll] Library Membership Task Force
+- January 2017 – December 2018, Member of the [HBLL][hbll] Metadata Management Working Group
 
 ## Professional Experience
 
@@ -139,9 +142,10 @@ Provo, UT 84602
 
 ## Skills
 
-- *Languages*: Python, Javascript, HTML, CSS, XML, XSLT, SQL, SPARQL, RDF, MARC, MARCXML, EAD, DC
-- *Databases*: Sqlite, MySQL
-- *Tools*: Git, Github, Bitbucket, Gitlab, Linux, macOS, Django, bash
+- *Languages*: Python, SQL, Javascript, HTML, CSS, XSLT, SPARQL
+- *Metadata standards*: MARC, MARCXML, EAD, DC, RDA, JSON, CSV, XML, RDF
+- *Databases*: MySQL, MariaDB, Oracle, Microsoft Access, Sqlite
+- *Tools*: Git, Github, Bitbucket, Gitlab, Linux, macOS, Django, bash, Dremio, BLUECloud Analytics
 
 [cell-svg]: assets/images/iconmonstr-smartphone-3.svg "Cellphone"
 [work-svg]: assets/images/iconmonstr-phone-1.svg "Work phone"
@@ -182,3 +186,4 @@ Provo, UT 84602
 [ula-2019]: https://ula2019.sched.com
 [ld4-2021]: https://ld42021.sched.com
 [swib-2021]: https://swib.org/swib21/
+lci: https://leadingchangeinstitute.org
