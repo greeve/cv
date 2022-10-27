@@ -145,7 +145,7 @@ Provo, UT 84602
 - *Languages*: Python, SQL, Javascript, HTML, CSS, XSLT, SPARQL
 - *Metadata standards*: MARC, MARCXML, EAD, DC, RDA, JSON, CSV, XML, RDF
 - *Databases*: MySQL, MariaDB, Oracle, Microsoft Access, Sqlite
-- *Tools*: Git, Github, Bitbucket, Gitlab, Linux, macOS, Django, bash, Dremio, BLUECloud Analytics
+- *Tools*: Git, Github, Bitbucket, Gitlab, Linux, macOS, Django, bash, Dremio, BLUECloud Analytics, OpenRefine, MarcEdit, Microsoft Excel
 
 [cell-svg]: assets/images/iconmonstr-smartphone-3.svg "Cellphone"
 [work-svg]: assets/images/iconmonstr-phone-1.svg "Work phone"
@@ -186,4 +186,4 @@ Provo, UT 84602
 [ula-2019]: https://ula2019.sched.com
 [ld4-2021]: https://ld42021.sched.com
 [swib-2021]: https://swib.org/swib21/
-lci: https://leadingchangeinstitute.org
+[lci]: https://leadingchangeinstitute.org
