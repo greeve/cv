@@ -34,9 +34,9 @@ Provo, UT 84602
 
 ## Presentations
 
-- __Reeve, G.__ (March 2022). *State of the Metadata*, [HBLL][hbll] Forum.
+- __Reeve, G.__ (March 2022). [*State of the Metadata*][sotm], [HBLL][hbll] Forum.
 - __Reeve, G.__ (2021). *Preparing for linked data: Mapping a library's metadata landscape*, [2021 LD4 Conference on Linked Data][ld4-2021]. Retrieved from <https://sites.google.com/stanford.edu/2021ld4conf/sessions/posters>
-- __Reeve, G.__ (March 2021). *State of the Metadata*, [HBLL][hbll] Forum.
+- __Reeve, G.__ (March 2021). [*State of the Metadata*][sotm], [HBLL][hbll] Forum.
 - Lyon, J., & __Reeve, G.__ (2020). *Implementing the Genre and Medium of Performance Algorithm in a Local Catalog*, [Music OCLC Users Group (MOUG)][moug], Norfolk, VA.
 - __Reeve, G.__, Hill, J., Richards, L., & Rice, D. (2019). *MARC updates and tools for automation*, [HBLL][hbll] LIT Forum.
 - __Reeve, G.__ & Thacker, C. (2019). *A gentle introduction to linked data*, [HBLL][hbll] LIT Forum.
@@ -192,3 +192,4 @@ Provo, UT 84602
 [lci]: https://leadingchangeinstitute.org
 [naco-training]: https://cataloging.lib.byu.edu/department-manual/authority-control/pcc-naco-training/2022-in-person-training/
 [naco-training-reivew]: https://cataloging.lib.byu.edu/department-manual/authority-control/pcc-naco-training/2021-training-review/
+[sotm]: https://cataloging.lib.byu.edu/department-manual/annual-reports/state-of-the-metadata/
