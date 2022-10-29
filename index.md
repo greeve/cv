@@ -34,8 +34,9 @@ Provo, UT 84602
 
 ## Presentations
 
+- __Reeve, G.__ (March 2022). *State of the Metadata*, [HBLL][hbll] Forum.
 - __Reeve, G.__ (2021). *Preparing for linked data: Mapping a library's metadata landscape*, [2021 LD4 Conference on Linked Data][ld4-2021]. Retrieved from <https://sites.google.com/stanford.edu/2021ld4conf/sessions/posters>
-- __Reeve, G.__ (2021). *State of the Metadata*, [HBLL][hbll] Forum.
+- __Reeve, G.__ (March 2021). *State of the Metadata*, [HBLL][hbll] Forum.
 - Lyon, J., & __Reeve, G.__ (2020). *Implementing the Genre and Medium of Performance Algorithm in a Local Catalog*, [Music OCLC Users Group (MOUG)][moug], Norfolk, VA.
 - __Reeve, G.__, Hill, J., Richards, L., & Rice, D. (2019). *MARC updates and tools for automation*, [HBLL][hbll] LIT Forum.
 - __Reeve, G.__ & Thacker, C. (2019). *A gentle introduction to linked data*, [HBLL][hbll] LIT Forum.
@@ -103,7 +104,9 @@ Provo, UT 84602
 - January 2021 - Present, Member of the [HBLL][hbll] Archives System Management Committee
 - September 2019 – Present, Member of the [HBLL][hbll] Scientific Merit Review Committee
 - January 2019 - Present, Member of the [HBLL][hbll] Library System Management Committe
-- January 2019 – Present, Member of the OCLC Research Library Partners Metadata Managers Focus Group
+- January 2019 - Present, Member of the OCLC Research Library Partners Metadata Managers Focus Group
+- June - July 2022, Organize and Conduct [PCC NACO Training][naco-training] for HBLL and Orem Library catalogers
+- August 2021 - April 2022, Organize and Conduct [PCC NACO Training Review][naco-training-review] for HBLL catalogers
 - August 2021 - December 2021, Site iternship supervisor for a library science masters student
 - April 2021 - December 2021, Member of the [HBLL][hbll] Digital Metadata Librarian Search and Screen Committee
 - January 2021 - January 2022, Chair of the the [HBLL][hbll] Scholarship Committee
@@ -187,3 +190,5 @@ Provo, UT 84602
 [ld4-2021]: https://ld42021.sched.com
 [swib-2021]: https://swib.org/swib21/
 [lci]: https://leadingchangeinstitute.org
+[naco-training]: https://cataloging.lib.byu.edu/department-manual/authority-control/pcc-naco-training/2022-in-person-training/
+[naco-training-reivew]: https://cataloging.lib.byu.edu/department-manual/authority-control/pcc-naco-training/2021-training-review/
