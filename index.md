@@ -191,5 +191,5 @@ Provo, UT 84602
 [swib-2021]: https://swib.org/swib21/
 [lci]: https://leadingchangeinstitute.org
 [naco-training]: https://cataloging.lib.byu.edu/department-manual/authority-control/pcc-naco-training/2022-in-person-training/
-[naco-training-reivew]: https://cataloging.lib.byu.edu/department-manual/authority-control/pcc-naco-training/2021-training-review/
+[naco-training-review]: https://cataloging.lib.byu.edu/department-manual/authority-control/pcc-naco-training/2021-training-review/
 [sotm]: https://cataloging.lib.byu.edu/department-manual/annual-reports/state-of-the-metadata/
